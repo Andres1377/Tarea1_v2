@@ -1,0 +1,1145 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="" tvg-name="SP: Eventos STAR+ SD" tvg-logo="" group-title="Eventos PPV",SP: Eventos STAR+ SD
+http://tvla.xyz:80/cyovmrru/g556Vx2Lpa/303582
+#EXTINF:-1 tvg-id="" tvg-name="SP: Eventos STAR+ HD" tvg-logo="" group-title="Eventos PPV",SP: Eventos STAR+ HD
+http://tvla.xyz:80/cyovmrru/g556Vx2Lpa/303583
+#EXTINF:-1 tvg-id="" tvg-name="SP: Eventos STAR+ FHD" tvg-logo="" group-title="Eventos PPV",SP: Eventos STAR+ FHD
+http://tvla.xyz:80/cyovmrru/g556Vx2Lpa/303584
+#EXTINF:-1 tvg-id="" tvg-name="SP: Eventos STAR+ 2 HD" tvg-logo="" group-title="Eventos PPV",SP: Eventos STAR+ 2 HD
+http://tvla.xyz:80/cyovmrru/g556Vx2Lpa/303585
+#EXTINF:-1 tvg-id="" tvg-name="SP: Eventos STAR+ 2 FHD" tvg-logo="" group-title="Eventos PPV",SP: Eventos STAR+ 2 FHD
+http://tvla.xyz:80/cyovmrru/g556Vx2Lpa/303586
+#EXTINF:-1 tvg-id="" tvg-name="Directv Sports HD (ARG)" tvg-logo="http://hidra.live:80/images/706bde645b1385e141c934c6cfe3c429.png" group-title="Directv",Directv Sports HD (ARG)
+http://tvla.xyz:80/cyovmrru/g556Vx2Lpa/123872
+#EXTINF:-1 tvg-id="" tvg-name="Directv Sports FHD (CL)" tvg-logo="http://hidra.live:80/images/706bde645b1385e141c934c6cfe3c429.png" group-title="Directv",Directv Sports FHD (CL)
+http://tvla.xyz:80/cyovmrru/g556Vx2Lpa/121857
+#EXTINF:-1 tvg-id="" tvg-name="Directv Sports + FHD (CL)" tvg-logo="http://hidra.live:80/images/706bde645b1385e141c934c6cfe3c429.png" group-title="Directv",Directv Sports + FHD (CL)
+http://tvla.xyz:80/cyovmrru/g556Vx2Lpa/121856
+#EXTINF:-1 tvg-id="" tvg-name="Directv Sports 2 FHD (CL)" tvg-logo="http://hidra.live:80/images/706bde645b1385e141c934c6cfe3c429.png" group-title="Directv",Directv Sports 2 FHD (CL)
+http://tvla.xyz:80/cyovmrru/g556Vx2Lpa/187724
+#EXTINF:-1 tvg-id="610DTSA.ar" tvg-name="Directv Sports SD (ARG)" tvg-logo="http://hidra.live:80/images/706bde645b1385e141c934c6cfe3c429.png" group-title="Directv",Directv Sports SD (ARG)
+http://tvla.xyz:80/cyovmrru/g556Vx2Lpa/34609
+#EXTINF:-1 tvg-id="610DTSA.ar" tvg-name="Directv Sports FHD (ARG)" tvg-logo="http://hidra.live:80/images/706bde645b1385e141c934c6cfe3c429.png" group-title="Directv",Directv Sports FHD (ARG)
+http://tvla.xyz:80/cyovmrru/g556Vx2Lpa/51364
+#EXTINF:-1 tvg-id="612DTS2.ar" tvg-name="Directv Sports 2 HD (ARG)" tvg-logo="http://hidra.live:80/images/706bde645b1385e141c934c6cfe3c429.png" group-title="Directv",Directv Sports 2 HD (ARG)
+http://tvla.xyz:80/cyovmrru/g556Vx2Lpa/34612
+#EXTINF:-1 tvg-id="" tvg-name="Directv Sports + HD (ARG)" tvg-logo="http://hidra.live:80/images/706bde645b1385e141c934c6cfe3c429.png" group-title="Directv",Directv Sports + HD (ARG)
+http://tvla.xyz:80/cyovmrru/g556Vx2Lpa/123871
+#EXTINF:-1 tvg-id="AR - FOX Sports HD" tvg-name="Directv Sports + FHD (ARG)" tvg-logo="http://hidra.live:80/images/706bde645b1385e141c934c6cfe3c429.png" group-title="Directv",Directv Sports + FHD (ARG)
+http://tvla.xyz:80/cyovmrru/g556Vx2Lpa/34616
+#EXTINF:-1 tvg-id="" tvg-name="Directv Sports HD (CO)" tvg-logo="http://hidra.live:80/images/706bde645b1385e141c934c6cfe3c429.png" group-title="Directv",Directv Sports HD (CO)
+http://tvla.xyz:80/cyovmrru/g556Vx2Lpa/43430
+#EXTINF:-1 tvg-id="" tvg-name="Directv Sports 2 HD (CO)" tvg-logo="http://hidra.live:80/images/706bde645b1385e141c934c6cfe3c429.png" group-title="Directv",Directv Sports 2 HD (CO)
+http://tvla.xyz:80/cyovmrru/g556Vx2Lpa/43431
+#EXTINF:-1 tvg-id="" tvg-name="Directv Sports + HD (CO)" tvg-logo="http://hidra.live:80/images/706bde645b1385e141c934c6cfe3c429.png" group-title="Directv",Directv Sports + HD (CO)
+http://tvla.xyz:80/cyovmrru/g556Vx2Lpa/123885
+#EXTINF:-1 tvg-id="CO - Claro Sports" tvg-name="Claro Sports SD (LAT)" tvg-logo="http://hidra.live:80/images/f5a1944259815fd00c2f57062e414b8a.png" group-title="Deportes",Claro Sports SD (LAT)
+http://tvla.xyz:80/cyovmrru/g556Vx2Lpa/34617
+#EXTINF:-1 tvg-id="CO - Claro Sports" tvg-name="Claro Sports FHD (LAT)" tvg-logo="http://hidra.live:80/images/f5a1944259815fd00c2f57062e414b8a.png" group-title="Deportes",Claro Sports FHD (LAT)
+http://tvla.xyz:80/cyovmrru/g556Vx2Lpa/34618
+#EXTINF:-1 tvg-id="MX - FOX Sports" tvg-name="Fox Sports SD (MX)" tvg-logo="http://hidra.live:80/images/32f3121bc314ba06628573737f575b3e.png" group-title="Fox Sports",Fox Sports SD (MX)
+http://tvla.xyz:80/cyovmrru/g556Vx2Lpa/34621
+#EXTINF:-1 tvg-id="MX - FOX Sports" tvg-name="Fox Sports FHD (MX)" tvg-logo="http://hidra.live:80/images/32f3121bc314ba06628573737f575b3e.png" group-title="Fox Sports",Fox Sports FHD (MX)
+http://tvla.xyz:80/cyovmrru/g556Vx2Lpa/34622
+#EXTINF:-1 tvg-id="MX - FOX Sports 2" tvg-name="Fox Sports 2 SD (MX)" tvg-logo="http://hidra.live:80/images/32f3121bc314ba06628573737f575b3e.png" group-title="Fox Sports",Fox Sports 2 SD (MX)
+http://tvla.xyz:80/cyovmrru/g556Vx2Lpa/34623
+#EXTINF:-1 tvg-id="MX - FOX Sports 2" tvg-name="Fox Sports 2 FHD (MX)" tvg-logo="http://hidra.live:80/images/32f3121bc314ba06628573737f575b3e.png" group-title="Fox Sports",Fox Sports 2 FHD (MX)
+http://tvla.xyz:80/cyovmrru/g556Vx2Lpa/34624
+#EXTINF:-1 tvg-id="MX - FOX Sports 3" tvg-name="Fox Sports 3 SD (MX)" tvg-logo="http://hidra.live:80/images/32f3121bc314ba06628573737f575b3e.png" group-title="Fox Sports",Fox Sports 3 SD (MX)
+http://tvla.xyz:80/cyovmrru/g556Vx2Lpa/34625
+#EXTINF:-1 tvg-id="MX - FOX Sports 3" tvg-name="Fox Sports 3 FHD (MX)" tvg-logo="http://hidra.live:80/images/32f3121bc314ba06628573737f575b3e.png" group-title="Fox Sports",Fox Sports 3 FHD (MX)
+http://tvla.xyz:80/cyovmrru/g556Vx2Lpa/34626
+#EXTINF:-1 tvg-id="CL - FOX Sports 1" tvg-name="Fox Sports 1 SD (CL)" tvg-logo="http://hidra.live:80/images/32f3121bc314ba06628573737f575b3e.png" group-title="Fox Sports",Fox Sports 1 SD (CL)
+http://tvla.xyz:80/cyovmrru/g556Vx2Lpa/34630
+#EXTINF:-1 tvg-id="CL - FOX Sports 1" tvg-name="Fox Sports 1 HD (CL)" tvg-logo="http://hidra.live:80/images/32f3121bc314ba06628573737f575b3e.png" group-title="Fox Sports",Fox Sports 1 HD (CL)
+http://tvla.xyz:80/cyovmrru/g556Vx2Lpa/34631
+#EXTINF:-1 tvg-id="CL - FOX Sports 1" tvg-name="Fox Sports 1 FHD (CL)" tvg-logo="http://hidra.live:80/images/32f3121bc314ba06628573737f575b3e.png" group-title="Fox Sports",Fox Sports 1 FHD (CL)
+http://tvla.xyz:80/cyovmrru/g556Vx2Lpa/34632
+#EXTINF:-1 tvg-id="CL - FOX Sports 2" tvg-name="Fox Sports 2 SD (CL)" tvg-logo="http://img.tvcl.xyz/deportes/foxsports.png" group-title="Fox Sports",Fox Sports 2 SD (CL)
+http://tvla.xyz:80/cyovmrru/g556Vx2Lpa/34633
+#EXTINF:-1 tvg-id="CL - FOX Sports 2" tvg-name="Fox Sports 2 HD (CL)" tvg-logo="http://hidra.live:80/images/32f3121bc314ba06628573737f575b3e.png" group-title="Fox Sports",Fox Sports 2 HD (CL)
+http://tvla.xyz:80/cyovmrru/g556Vx2Lpa/34634
+#EXTINF:-1 tvg-id="CL - FOX Sports 2" tvg-name="Fox Sports 2 FHD (CL)" tvg-logo="http://hidra.live:80/images/32f3121bc314ba06628573737f575b3e.png" group-title="Fox Sports",Fox Sports 2 FHD (CL)
+http://tvla.xyz:80/cyovmrru/g556Vx2Lpa/34635
+#EXTINF:-1 tvg-id="CL - FOX Sports 3" tvg-name="Fox Sports 3 SD (CL)" tvg-logo="http://hidra.live:80/images/32f3121bc314ba06628573737f575b3e.png" group-title="Fox Sports",Fox Sports 3 SD (CL)
+http://tvla.xyz:80/cyovmrru/g556Vx2Lpa/34636
+#EXTINF:-1 tvg-id="CL - FOX Sports 3" tvg-name="Fox Sports 3 HD (CL)" tvg-logo="http://hidra.live:80/images/32f3121bc314ba06628573737f575b3e.png" group-title="Fox Sports",Fox Sports 3 HD (CL)
+http://tvla.xyz:80/cyovmrru/g556Vx2Lpa/34637
+#EXTINF:-1 tvg-id="CL - FOX Sports 3" tvg-name="Fox Sports 3 FHD (CL)" tvg-logo="http://hidra.live:80/images/32f3121bc314ba06628573737f575b3e.png" group-title="Fox Sports",Fox Sports 3 FHD (CL)
+http://tvla.xyz:80/cyovmrru/g556Vx2Lpa/34638
+#EXTINF:-1 tvg-id="AR - FOX Sports HD" tvg-name="Fox Sports SD (ARG)" tvg-logo="http://hidra.live:80/images/32f3121bc314ba06628573737f575b3e.png" group-title="Fox Sports",Fox Sports SD (ARG)
+http://tvla.xyz:80/cyovmrru/g556Vx2Lpa/34639
+#EXTINF:-1 tvg-id="AR - FOX Sports HD" tvg-name="Fox Sports HD (ARG)" tvg-logo="http://hidra.live:80/images/32f3121bc314ba06628573737f575b3e.png" group-title="Fox Sports",Fox Sports HD (ARG)
+http://tvla.xyz:80/cyovmrru/g556Vx2Lpa/34640
+#EXTINF:-1 tvg-id="AR - FOX Sports HD" tvg-name="Fox Sports FHD (ARG)" tvg-logo="http://hidra.live:80/images/32f3121bc314ba06628573737f575b3e.png" group-title="Fox Sports",Fox Sports FHD (ARG)
+http://tvla.xyz:80/cyovmrru/g556Vx2Lpa/34641
+#EXTINF:-1 tvg-id="AR - FOX Sports 2" tvg-name="Fox Sports 2 SD (ARG)" tvg-logo="http://hidra.live:80/images/32f3121bc314ba06628573737f575b3e.png" group-title="Fox Sports",Fox Sports 2 SD (ARG)
+http://tvla.xyz:80/cyovmrru/g556Vx2Lpa/34642
+#EXTINF:-1 tvg-id="AR - FOX Sports 2" tvg-name="Fox Sports 2 HD (ARG)" tvg-logo="http://hidra.live:80/images/32f3121bc314ba06628573737f575b3e.png" group-title="Fox Sports",Fox Sports 2 HD (ARG)
+http://tvla.xyz:80/cyovmrru/g556Vx2Lpa/34643
+#EXTINF:-1 tvg-id="AR - FOX Sports 2" tvg-name="Fox Sports 2 FHD (ARG)" tvg-logo="http://hidra.live:80/images/32f3121bc314ba06628573737f575b3e.png" group-title="Fox Sports",Fox Sports 2 FHD (ARG)
+http://tvla.xyz:80/cyovmrru/g556Vx2Lpa/34644
+#EXTINF:-1 tvg-id="AR - FOX Sports 3" tvg-name="Fox Sports 3 SD (ARG)" tvg-logo="http://hidra.live:80/images/32f3121bc314ba06628573737f575b3e.png" group-title="Fox Sports",Fox Sports 3 SD (ARG)
+http://tvla.xyz:80/cyovmrru/g556Vx2Lpa/34645
+#EXTINF:-1 tvg-id="AR - FOX Sports 3" tvg-name="Fox Sports 3 HD (ARG)" tvg-logo="http://hidra.live:80/images/32f3121bc314ba06628573737f575b3e.png" group-title="Fox Sports",Fox Sports 3 HD (ARG)
+http://tvla.xyz:80/cyovmrru/g556Vx2Lpa/34646
+#EXTINF:-1 tvg-id="AR - FOX Sports 3" tvg-name="Fox Sports 3 FHD (ARG)" tvg-logo="http://hidra.live:80/images/32f3121bc314ba06628573737f575b3e.png" group-title="Fox Sports",Fox Sports 3 FHD (ARG)
+http://tvla.xyz:80/cyovmrru/g556Vx2Lpa/34647
+#EXTINF:-1 tvg-id="FoxSports1.us" tvg-name="Fox Sports 1 HD (US)" tvg-logo="http://img.tvcl.xyz/deportes/foxsports.png" group-title="Fox Sports",Fox Sports 1 HD (US)
+http://tvla.xyz:80/cyovmrru/g556Vx2Lpa/34649
+#EXTINF:-1 tvg-id="FoxSports2.us" tvg-name="Fox Sports 2 HD (US)" tvg-logo="http://img.tvcl.xyz/deportes/foxsports.png" group-title="Fox Sports",Fox Sports 2 HD (US)
+http://tvla.xyz:80/cyovmrru/g556Vx2Lpa/34650
+#EXTINF:-1 tvg-id="FoxDeportes.us" tvg-name="Fox Deportes HD (US)" tvg-logo="http://img.tvcl.xyz/deportes/foxsports.png" group-title="Fox Sports",Fox Deportes HD (US)
+http://tvla.xyz:80/cyovmrru/g556Vx2Lpa/34651
+#EXTINF:-1 tvg-id="CL - ESPN" tvg-name="ESPN SD (CL)" tvg-logo="http://hidra.live:80/images/e748f3c03f7c4088e90a0ccb2588e0ed.png" group-title="ESPN",ESPN SD (CL)
+http://tvla.xyz:80/cyovmrru/g556Vx2Lpa/157048
+#EXTINF:-1 tvg-id="CL - ESPN" tvg-name="ESPN HD (CL)" tvg-logo="http://hidra.live:80/images/e748f3c03f7c4088e90a0ccb2588e0ed.png" group-title="ESPN",ESPN HD (CL)
+http://tvla.xyz:80/cyovmrru/g556Vx2Lpa/123652
+#EXTINF:-1 tvg-id="CL - ESPN 2" tvg-name="ESPN 2 HD (CL)" tvg-logo="http://hidra.live:80/images/e748f3c03f7c4088e90a0ccb2588e0ed.png" group-title="ESPN",ESPN 2 HD (CL)
+http://tvla.xyz:80/cyovmrru/g556Vx2Lpa/123653
+#EXTINF:-1 tvg-id="CL - ESPN 3" tvg-name="ESPN 3 HD (CL)" tvg-logo="http://hidra.live:80/images/e748f3c03f7c4088e90a0ccb2588e0ed.png" group-title="ESPN",ESPN 3 HD (CL)
+http://tvla.xyz:80/cyovmrru/g556Vx2Lpa/123654
+#EXTINF:-1 tvg-id="MX - ESPN HD" tvg-name="ESPN SD (MX)" tvg-logo="http://img.tvcl.xyz/deportes/espn.png" group-title="ESPN",ESPN SD (MX)
+http://tvla.xyz:80/cyovmrru/g556Vx2Lpa/34652
+#EXTINF:-1 tvg-id="MX - ESPN HD" tvg-name="ESPN FHD (MX)" tvg-logo="http://hidra.live:80/images/e748f3c03f7c4088e90a0ccb2588e0ed.png" group-title="ESPN",ESPN FHD (MX)
+http://tvla.xyz:80/cyovmrru/g556Vx2Lpa/34653
+#EXTINF:-1 tvg-id="MX - ESPN HD" tvg-name="ESPN Extra FHD (MX)" tvg-logo="http://hidra.live:80/images/e748f3c03f7c4088e90a0ccb2588e0ed.png" group-title="ESPN",ESPN Extra FHD (MX)
+http://tvla.xyz:80/cyovmrru/g556Vx2Lpa/34654
+#EXTINF:-1 tvg-id="MX - ESPN 2" tvg-name="ESPN 2 SD (MX)" tvg-logo="http://hidra.live:80/images/e748f3c03f7c4088e90a0ccb2588e0ed.png" group-title="ESPN",ESPN 2 SD (MX)
+http://tvla.xyz:80/cyovmrru/g556Vx2Lpa/34655
+#EXTINF:-1 tvg-id="MX - ESPN 2" tvg-name="ESPN 2 FHD (MX)" tvg-logo="http://hidra.live:80/images/e748f3c03f7c4088e90a0ccb2588e0ed.png" group-title="ESPN",ESPN 2 FHD (MX)
+http://tvla.xyz:80/cyovmrru/g556Vx2Lpa/34656
+#EXTINF:-1 tvg-id="MX - ESPN 3" tvg-name="ESPN 3 SD (MX)" tvg-logo="http://hidra.live:80/images/e748f3c03f7c4088e90a0ccb2588e0ed.png" group-title="ESPN",ESPN 3 SD (MX)
+http://tvla.xyz:80/cyovmrru/g556Vx2Lpa/34657
+#EXTINF:-1 tvg-id="MX - ESPN 3" tvg-name="ESPN 3 FHD (MX)" tvg-logo="http://hidra.live:80/images/e748f3c03f7c4088e90a0ccb2588e0ed.png" group-title="ESPN",ESPN 3 FHD (MX)
+http://tvla.xyz:80/cyovmrru/g556Vx2Lpa/34658
+#EXTINF:-1 tvg-id="AR - ESPN" tvg-name="ESPN SD (ARG)" tvg-logo="http://hidra.live:80/images/e748f3c03f7c4088e90a0ccb2588e0ed.png" group-title="ESPN",ESPN SD (ARG)
+http://tvla.xyz:80/cyovmrru/g556Vx2Lpa/34659
+#EXTINF:-1 tvg-id="AR - ESPN" tvg-name="ESPN HD (ARG)" tvg-logo="http://hidra.live:80/images/e748f3c03f7c4088e90a0ccb2588e0ed.png" group-title="ESPN",ESPN HD (ARG)
+http://tvla.xyz:80/cyovmrru/g556Vx2Lpa/34660
+#EXTINF:-1 tvg-id="AR - ESPN" tvg-name="ESPN FHD (ARG)" tvg-logo="http://hidra.live:80/images/e748f3c03f7c4088e90a0ccb2588e0ed.png" group-title="ESPN",ESPN FHD (ARG)
+http://tvla.xyz:80/cyovmrru/g556Vx2Lpa/34661
+#EXTINF:-1 tvg-id="AR - FOX Sports Premium" tvg-name="ESPN Premium HD (ARG)" tvg-logo="http://hidra.live:80/images/32f3121bc314ba06628573737f575b3e.png" group-title="ESPN",ESPN Premium HD (ARG)
+http://tvla.xyz:80/cyovmrru/g556Vx2Lpa/123874
+#EXTINF:-1 tvg-id="AR - FOX Sports HD" tvg-name="ESPN Premium FHD (ARG)" tvg-logo="http://hidra.live:80/images/32f3121bc314ba06628573737f575b3e.png" group-title="ESPN",ESPN Premium FHD (ARG)
+http://tvla.xyz:80/cyovmrru/g556Vx2Lpa/34648
+#EXTINF:-1 tvg-id="AR - ESPN 2" tvg-name="ESPN 2 SD (ARG)" tvg-logo="http://hidra.live:80/images/e748f3c03f7c4088e90a0ccb2588e0ed.png" group-title="ESPN",ESPN 2 SD (ARG)
+http://tvla.xyz:80/cyovmrru/g556Vx2Lpa/34662
+#EXTINF:-1 tvg-id="AR - ESPN 2" tvg-name="ESPN 2 HD (ARG)" tvg-logo="http://hidra.live:80/images/e748f3c03f7c4088e90a0ccb2588e0ed.png" group-title="ESPN",ESPN 2 HD (ARG)
+http://tvla.xyz:80/cyovmrru/g556Vx2Lpa/34663
+#EXTINF:-1 tvg-id="AR - ESPN 2" tvg-name="ESPN 2 FHD (ARG)" tvg-logo="http://hidra.live:80/images/e748f3c03f7c4088e90a0ccb2588e0ed.png" group-title="ESPN",ESPN 2 FHD (ARG)
+http://tvla.xyz:80/cyovmrru/g556Vx2Lpa/34664
+#EXTINF:-1 tvg-id="AR - ESPN 3" tvg-name="ESPN 3 SD (ARG)" tvg-logo="http://hidra.live:80/images/e748f3c03f7c4088e90a0ccb2588e0ed.png" group-title="ESPN",ESPN 3 SD (ARG)
+http://tvla.xyz:80/cyovmrru/g556Vx2Lpa/34665
+#EXTINF:-1 tvg-id="AR - ESPN 3" tvg-name="ESPN 3 HD (ARG)" tvg-logo="http://hidra.live:80/images/e748f3c03f7c4088e90a0ccb2588e0ed.png" group-title="ESPN",ESPN 3 HD (ARG)
+http://tvla.xyz:80/cyovmrru/g556Vx2Lpa/34666
+#EXTINF:-1 tvg-id="AR - ESPN 3" tvg-name="ESPN 3 FHD (ARG)" tvg-logo="http://hidra.live:80/images/e748f3c03f7c4088e90a0ccb2588e0ed.png" group-title="ESPN",ESPN 3 FHD (ARG)
+http://tvla.xyz:80/cyovmrru/g556Vx2Lpa/34667
+#EXTINF:-1 tvg-id="ESPN.us" tvg-name="ESPN HD (US)" tvg-logo="http://img.tvcl.xyz/deportes/espn.png" group-title="ESPN",ESPN HD (US)
+http://tvla.xyz:80/cyovmrru/g556Vx2Lpa/34668
+#EXTINF:-1 tvg-id="ESPN2.us" tvg-name="ESPN 2 HD (US)" tvg-logo="http://img.tvcl.xyz/deportes/espn.png" group-title="ESPN",ESPN 2 HD (US)
+http://tvla.xyz:80/cyovmrru/g556Vx2Lpa/34669
+#EXTINF:-1 tvg-id="ESPNDeportes.us" tvg-name="ESPN Deportes HD (US)" tvg-logo="http://hidra.live:80/images/e748f3c03f7c4088e90a0ccb2588e0ed.png" group-title="ESPN",ESPN Deportes HD (US)
+http://tvla.xyz:80/cyovmrru/g556Vx2Lpa/34670
+#EXTINF:-1 tvg-id="ESPNNews.us" tvg-name="ESPN News HD (US)" tvg-logo="http://img.tvcl.xyz/deportes/espn.png" group-title="ESPN",ESPN News HD (US)
+http://tvla.xyz:80/cyovmrru/g556Vx2Lpa/34671
+#EXTINF:-1 tvg-id="ESPN.us" tvg-name="ESPN U HD (US)" tvg-logo="http://img.tvcl.xyz/deportes/espn.png" group-title="ESPN",ESPN U HD (US)
+http://tvla.xyz:80/cyovmrru/g556Vx2Lpa/34672
+#EXTINF:-1 tvg-id="CL - TNT Sports" tvg-name="TNT Sports HD (CL)" tvg-logo="http://hidra.live:80/images/fd495288dc2eef3132dac1d195dc63fe.png" group-title="TNT SPORTS",TNT Sports HD (CL)
+http://tvla.xyz:80/cyovmrru/g556Vx2Lpa/34675
+#EXTINF:-1 tvg-id="CL - TNT Sports" tvg-name="TNT Sports FHD (CL)" tvg-logo="http://hidra.live:80/images/fd495288dc2eef3132dac1d195dc63fe.png" group-title="TNT SPORTS",TNT Sports FHD (CL)
+http://tvla.xyz:80/cyovmrru/g556Vx2Lpa/34676
+#EXTINF:-1 tvg-id="CL - TNT Sports" tvg-name="TNT Sports FHD (CL) (60 FPS)" tvg-logo="http://hidra.live:80/images/fd495288dc2eef3132dac1d195dc63fe.png" group-title="TNT SPORTS",TNT Sports FHD (CL) (60 FPS)
+http://tvla.xyz:80/cyovmrru/g556Vx2Lpa/34677
+#EXTINF:-1 tvg-id="" tvg-name="TNT Sports FHD (OP2)" tvg-logo="http://hidra.live:80/images/fd495288dc2eef3132dac1d195dc63fe.png" group-title="TNT SPORTS",TNT Sports FHD (OP2)
+http://tvla.xyz:80/cyovmrru/g556Vx2Lpa/123716
+#EXTINF:-1 tvg-id="CL - TNT Sports 2" tvg-name="TNT Sports 2 SD (CL)" tvg-logo="http://hidra.live:80/images/fd495288dc2eef3132dac1d195dc63fe.png" group-title="TNT SPORTS",TNT Sports 2 SD (CL)
+http://tvla.xyz:80/cyovmrru/g556Vx2Lpa/34674
+#EXTINF:-1 tvg-id="CL - TNT Sports 2" tvg-name="TNT Sports 2 HD (CL)" tvg-logo="http://hidra.live:80/images/fd495288dc2eef3132dac1d195dc63fe.png" group-title="TNT SPORTS",TNT Sports 2 HD (CL)
+http://tvla.xyz:80/cyovmrru/g556Vx2Lpa/124014
+#EXTINF:-1 tvg-id="CL - TNT Sports" tvg-name="TNT Sports 3 SD (CL)" tvg-logo="http://hidra.live:80/images/fd495288dc2eef3132dac1d195dc63fe.png" group-title="TNT SPORTS",TNT Sports 3 SD (CL)
+http://tvla.xyz:80/cyovmrru/g556Vx2Lpa/123886
+#EXTINF:-1 tvg-id="CL - TNT Sports 3" tvg-name="TNT Sports 3 HD (CL)" tvg-logo="http://hidra.live:80/images/fd495288dc2eef3132dac1d195dc63fe.png" group-title="TNT SPORTS",TNT Sports 3 HD (CL)
+http://tvla.xyz:80/cyovmrru/g556Vx2Lpa/123887
+#EXTINF:-1 tvg-id="AR - TNT Sports" tvg-name="TNT Sports HD (ARG)" tvg-logo="http://hidra.live:80/images/6a7ef638f3cacf258370a83d3dc741ff.png" group-title="TNT SPORTS",TNT Sports HD (ARG)
+http://tvla.xyz:80/cyovmrru/g556Vx2Lpa/34683
+#EXTINF:-1 tvg-id="AR - TNT Sports" tvg-name="TNT Sports FHD (ARG)" tvg-logo="http://hidra.live:80/images/6a7ef638f3cacf258370a83d3dc741ff.png" group-title="TNT SPORTS",TNT Sports FHD (ARG)
+http://tvla.xyz:80/cyovmrru/g556Vx2Lpa/34684
+#EXTINF:-1 tvg-id="CL - CDO Básico" tvg-name="CDO Basico SD (CL)" tvg-logo="http://hidra.live:80/images/e270be3f83015fc46a9fd7f678e0289b.png" group-title="Deportes",CDO Basico SD (CL)
+http://tvla.xyz:80/cyovmrru/g556Vx2Lpa/34678
+#EXTINF:-1 tvg-id="CL - CDO Premium" tvg-name="CDO Premium SD (CL)" tvg-logo="http://hidra.live:80/images/e270be3f83015fc46a9fd7f678e0289b.png" group-title="Deportes",CDO Premium SD (CL)
+http://tvla.xyz:80/cyovmrru/g556Vx2Lpa/34679
+#EXTINF:-1 tvg-id="CL - CDO Premium" tvg-name="CDO Premium HD (CL)" tvg-logo="http://hidra.live:80/images/e270be3f83015fc46a9fd7f678e0289b.png" group-title="Deportes",CDO Premium HD (CL)
+http://tvla.xyz:80/cyovmrru/g556Vx2Lpa/121890
+#EXTINF:-1 tvg-id="AR - TyC Sports" tvg-name="TyC Sports  SD (ARG)" tvg-logo="http://img.tvcl.xyz/deportes/tyc.png" group-title="Deportes",TyC Sports  SD (ARG)
+http://tvla.xyz:80/cyovmrru/g556Vx2Lpa/34685
+#EXTINF:-1 tvg-id="AR - TyC Sports" tvg-name="TyC Sports HD (ARG)" tvg-logo="http://hidra.live:80/images/ccb7e786706e39bb3ec404bbe0c7b9ac.png" group-title="Deportes",TyC Sports HD (ARG)
+http://tvla.xyz:80/cyovmrru/g556Vx2Lpa/34686
+#EXTINF:-1 tvg-id="AR - TyC Sports" tvg-name="TyC Sports SD (ARG)" tvg-logo="http://hidra.live:80/images/ccb7e786706e39bb3ec404bbe0c7b9ac.png" group-title="Deportes",TyC Sports SD (ARG)
+http://tvla.xyz:80/cyovmrru/g556Vx2Lpa/34687
+#EXTINF:-1 tvg-id="AR - TyC Sports" tvg-name="TyC Sports Internacional HD (ARG)" tvg-logo="http://hidra.live:80/images/ccb7e786706e39bb3ec404bbe0c7b9ac.png" group-title="Deportes",TyC Sports Internacional HD (ARG)
+http://tvla.xyz:80/cyovmrru/g556Vx2Lpa/34688
+#EXTINF:-1 tvg-id="CO - Win Sports HD" tvg-name="Win Sports SD (CO)" tvg-logo="http://hidra.live:80/images/caaba3362608ac504d23dfef6da35ad1.png" group-title="Deportes",Win Sports SD (CO)
+http://tvla.xyz:80/cyovmrru/g556Vx2Lpa/34689
+#EXTINF:-1 tvg-id="CO - Win Sports HD" tvg-name="Win Sports FHD (CO)" tvg-logo="http://hidra.live:80/images/caaba3362608ac504d23dfef6da35ad1.png" group-title="Deportes",Win Sports FHD (CO)
+http://tvla.xyz:80/cyovmrru/g556Vx2Lpa/34690
+#EXTINF:-1 tvg-id="CO - Win Sports HD" tvg-name="Win Sports + FHD (CO)" tvg-logo="http://hidra.live:80/images/caaba3362608ac504d23dfef6da35ad1.png" group-title="Deportes",Win Sports + FHD (CO)
+http://tvla.xyz:80/cyovmrru/g556Vx2Lpa/34691
+#EXTINF:-1 tvg-id="" tvg-name="Gol TV HD (ECU)" tvg-logo="http://hidra.live:80/images/a2b4b03dc625db35b1f753a70d9cc911.png" group-title="Deportes",Gol TV HD (ECU)
+http://tvla.xyz:80/cyovmrru/g556Vx2Lpa/34693
+#EXTINF:-1 tvg-id="Canal Golf Channel" tvg-name="Golf Channel SD (MX)" tvg-logo="http://hidra.live:80/images/c6cf642b8f1cac1101e23a06aa63600e.png" group-title="Deportes",Golf Channel SD (MX)
+http://tvla.xyz:80/cyovmrru/g556Vx2Lpa/34695
+#EXTINF:-1 tvg-id="Canal Golf Channel" tvg-name="Golf Channel FHD (MX)" tvg-logo="http://img.tvcl.xyz/deportes/golf.png" group-title="Deportes",Golf Channel FHD (MX)
+http://tvla.xyz:80/cyovmrru/g556Vx2Lpa/34696
+#EXTINF:-1 tvg-id="Canal AYM Sports" tvg-name="AYM Sports SD (MX)" tvg-logo="http://img.tvcl.xyz/deportes/aym.png" group-title="Deportes",AYM Sports SD (MX)
+http://tvla.xyz:80/cyovmrru/g556Vx2Lpa/34697
+#EXTINF:-1 tvg-id="Canal Adrenalina Sports Network" tvg-name="Adrenalina Sport Network FHD (MX)" tvg-logo="http://img.tvcl.xyz/deportes/adrenalina.png" group-title="Deportes",Adrenalina Sport Network FHD (MX)
+http://tvla.xyz:80/cyovmrru/g556Vx2Lpa/34699
+#EXTINF:-1 tvg-id="Canal TVC (México)" tvg-name="TVC Deportes SD (MX)" tvg-logo="http://hidra.live:80/images/729c37a1d3319ee21991227b1f84c687.png" group-title="Deportes",TVC Deportes SD (MX)
+http://tvla.xyz:80/cyovmrru/g556Vx2Lpa/34700
+#EXTINF:-1 tvg-id="610DTSA.ar" tvg-name="Canal F1 FHD (ES)" tvg-logo="http://hidra.live:80/images/815c41fcb966925ba75dfe5541c56e37.png" group-title="Deportes",Canal F1 FHD (ES)
+http://tvla.xyz:80/cyovmrru/g556Vx2Lpa/34701
+#EXTINF:-1 tvg-id="BarcaTV.es" tvg-name="Barca TV SD (ES)" tvg-logo="http://hidra.live:80/images/0c60d47dde8a2565c6185f85b0196ddc.png" group-title="Deportes",Barca TV SD (ES)
+http://tvla.xyz:80/cyovmrru/g556Vx2Lpa/34702
+#EXTINF:-1 tvg-id="" tvg-name="b31N LA Liga FHD (ES)" tvg-logo="http://img.tvcl.xyz/deportes/bein.png" group-title="Deportes",b31N LA Liga FHD (ES)
+http://tvla.xyz:80/cyovmrru/g556Vx2Lpa/34703
+#EXTINF:-1 tvg-id="MovistarDeportes.es" tvg-name="Movistar Deportes FHD (ES)" tvg-logo="http://hidra.live:80/images/0ab59d2ade307623937c6ca1f59a6b22.png" group-title="Deportes",Movistar Deportes FHD (ES)
+http://tvla.xyz:80/cyovmrru/g556Vx2Lpa/34704
+#EXTINF:-1 tvg-id="NFLNetwork.us" tvg-name="NFL Network HD (US)" tvg-logo="http://img.tvcl.xyz/deportes/nfl.png" group-title="Deportes",NFL Network HD (US)
+http://tvla.xyz:80/cyovmrru/g556Vx2Lpa/34705
+#EXTINF:-1 tvg-id="RealMadridTV.es" tvg-name="Real Madrid TV FHD (ES)" tvg-logo="http://hidra.live:80/images/e8c522a4c9bdc5ea1f7a0483d965e196.png" group-title="Deportes",Real Madrid TV FHD (ES)
+http://tvla.xyz:80/cyovmrru/g556Vx2Lpa/34706
+#EXTINF:-1 tvg-id="" tvg-name="EuroSport 1 HQ (ES)" tvg-logo="http://hidra.live:80/images/8a716bc871d1e0b95af1832d7aef3e28.png" group-title="Deportes",EuroSport 1 HQ (ES)
+http://tvla.xyz:80/cyovmrru/g556Vx2Lpa/34709
+#EXTINF:-1 tvg-id="" tvg-name="EuroSport 2 HQ (ES)" tvg-logo="http://hidra.live:80/images/8a716bc871d1e0b95af1832d7aef3e28.png" group-title="Deportes",EuroSport 2 HQ (ES)
+http://tvla.xyz:80/cyovmrru/g556Vx2Lpa/34710
+#EXTINF:-1 tvg-id="FightNetwork.ca" tvg-name="Fight Network FHD (CA)" tvg-logo="http://hidra.live:80/images/d32acee4a6d4dda2a612faf179ffc7f8.png" group-title="Deportes",Fight Network FHD (CA)
+http://tvla.xyz:80/cyovmrru/g556Vx2Lpa/34711
+#EXTINF:-1 tvg-id="NBATV.th" tvg-name="NBA TV HD (US)" tvg-logo="http://hidra.live:80/images/8e617358cf86c2b4ce01ad8309d2ac33.png" group-title="Deportes",NBA TV HD (US)
+http://tvla.xyz:80/cyovmrru/g556Vx2Lpa/34712
+#EXTINF:-1 tvg-id="TennisChannel.us" tvg-name="Tennis Channel HD (US)" tvg-logo="http://hidra.live:80/images/1fbfb23351e3580651395ab721f5e935.png" group-title="Deportes",Tennis Channel HD (US)
+http://tvla.xyz:80/cyovmrru/g556Vx2Lpa/34713
+#EXTINF:-1 tvg-id="" tvg-name="UFC Fight Pass FHD (US)" tvg-logo="http://hidra.live:80/images/0f1e6af3ded265ef957875152c35f14b.png" group-title="Deportes",UFC Fight Pass FHD (US)
+http://tvla.xyz:80/cyovmrru/g556Vx2Lpa/34714
+#EXTINF:-1 tvg-id="UnivisionWLII.us" tvg-name="Univision Deportes Network HD (US)" tvg-logo="http://img.tvcl.xyz/deportes/univision.png" group-title="Deportes",Univision Deportes Network HD (US)
+http://tvla.xyz:80/cyovmrru/g556Vx2Lpa/34715
+#EXTINF:-1 tvg-id="" tvg-name="WWE Network HD  (US)" tvg-logo="http://img.tvcl.xyz/deportes/wwe.png" group-title="Deportes",WWE Network HD  (US)
+http://tvla.xyz:80/cyovmrru/g556Vx2Lpa/34716
+#EXTINF:-1 tvg-id="" tvg-name="b31N Sports Ñ HQ (ES)" tvg-logo="http://hidra.live:80/images/356f2fcf827e91006729d4f2f634304f.png" group-title="Deportes",b31N Sports Ñ HQ (ES)
+http://tvla.xyz:80/cyovmrru/g556Vx2Lpa/34717
+#EXTINF:-1 tvg-id="" tvg-name="b31N Sports 1 HQ (AR)" tvg-logo="http://img.tvcl.xyz/deportes/bein.png" group-title="Deportes",b31N Sports 1 HQ (AR)
+http://tvla.xyz:80/cyovmrru/g556Vx2Lpa/34718
+#EXTINF:-1 tvg-id="" tvg-name="b31N Sports 2 HQ (AR)" tvg-logo="http://img.tvcl.xyz/deportes/bein.png" group-title="Deportes",b31N Sports 2 HQ (AR)
+http://tvla.xyz:80/cyovmrru/g556Vx2Lpa/34719
+#EXTINF:-1 tvg-id="" tvg-name="b31N Sports 3 HQ (AR)" tvg-logo="http://img.tvcl.xyz/deportes/bein.png" group-title="Deportes",b31N Sports 3 HQ (AR)
+http://tvla.xyz:80/cyovmrru/g556Vx2Lpa/34720
+#EXTINF:-1 tvg-id="" tvg-name="b31N Sports 4 HQ (AR)" tvg-logo="http://img.tvcl.xyz/deportes/bein.png" group-title="Deportes",b31N Sports 4 HQ (AR)
+http://tvla.xyz:80/cyovmrru/g556Vx2Lpa/34721
+#EXTINF:-1 tvg-id="" tvg-name="b31N Sports 5 HQ (AR)" tvg-logo="http://img.tvcl.xyz/deportes/bein.png" group-title="Deportes",b31N Sports 5 HQ (AR)
+http://tvla.xyz:80/cyovmrru/g556Vx2Lpa/34722
+#EXTINF:-1 tvg-id="" tvg-name="b31N Sports 6 HQ (AR)" tvg-logo="http://img.tvcl.xyz/deportes/bein.png" group-title="Deportes",b31N Sports 6 HQ (AR)
+http://tvla.xyz:80/cyovmrru/g556Vx2Lpa/34723
+#EXTINF:-1 tvg-id="" tvg-name="b31N Sports 7 HQ (AR)" tvg-logo="http://img.tvcl.xyz/deportes/bein.png" group-title="Deportes",b31N Sports 7 HQ (AR)
+http://tvla.xyz:80/cyovmrru/g556Vx2Lpa/34724
+#EXTINF:-1 tvg-id="SkySportsAction.uk" tvg-name="Sky Sports MotoGP HQ (IT)" tvg-logo="http://hidra.live:80/images/cef969dfd13e807c26c71763b3d68d83.png" group-title="Deportes",Sky Sports MotoGP HQ (IT)
+http://tvla.xyz:80/cyovmrru/g556Vx2Lpa/34730
+#EXTINF:-1 tvg-id="SkySportsArena.uk" tvg-name="Sky Sports Arena HQ (IT)" tvg-logo="http://hidra.live:80/images/cef969dfd13e807c26c71763b3d68d83.png" group-title="Deportes",Sky Sports Arena HQ (IT)
+http://tvla.xyz:80/cyovmrru/g556Vx2Lpa/34731
+#EXTINF:-1 tvg-id="SkySportsCricket.uk" tvg-name="Sky Sports Tennis HQ (IT)" tvg-logo="http://hidra.live:80/images/cef969dfd13e807c26c71763b3d68d83.png" group-title="Deportes",Sky Sports Tennis HQ (IT)
+http://tvla.xyz:80/cyovmrru/g556Vx2Lpa/34732
+#EXTINF:-1 tvg-id="SkySportsF1.uk" tvg-name="Sky Sports F1 HQ (IT)" tvg-logo="http://hidra.live:80/images/cef969dfd13e807c26c71763b3d68d83.png" group-title="Formula 1",Sky Sports F1 HQ (IT)
+http://tvla.xyz:80/cyovmrru/g556Vx2Lpa/34733
+#EXTINF:-1 tvg-id="SkySportsFootball.uk" tvg-name="Sky Sports Football HQ (IT)" tvg-logo="http://hidra.live:80/images/cef969dfd13e807c26c71763b3d68d83.png" group-title="Deportes",Sky Sports Football HQ (IT)
+http://tvla.xyz:80/cyovmrru/g556Vx2Lpa/34734
+#EXTINF:-1 tvg-id="610DTSA.ar" tvg-name="Sky Sports UNO HQ (IT)" tvg-logo="http://hidra.live:80/images/cef969dfd13e807c26c71763b3d68d83.png" group-title="Deportes",Sky Sports UNO HQ (IT)
+http://tvla.xyz:80/cyovmrru/g556Vx2Lpa/34735
+#EXTINF:-1 tvg-id="SkySportsMainEvent.uk" tvg-name="Sky Sports AEW / WWE HQ (IT)" tvg-logo="http://hidra.live:80/images/cef969dfd13e807c26c71763b3d68d83.png" group-title="Deportes",Sky Sports AEW / WWE HQ (IT)
+http://tvla.xyz:80/cyovmrru/g556Vx2Lpa/34736
+#EXTINF:-1 tvg-id="SkySportsMix.uk" tvg-name="Sky Sports NBA HQ (IT)" tvg-logo="http://hidra.live:80/images/cef969dfd13e807c26c71763b3d68d83.png" group-title="Deportes",Sky Sports NBA HQ (IT)
+http://tvla.xyz:80/cyovmrru/g556Vx2Lpa/34737
+#EXTINF:-1 tvg-id="SkySportsNews.uk" tvg-name="Sky Sports Action HQ (IT)" tvg-logo="http://hidra.live:80/images/cef969dfd13e807c26c71763b3d68d83.png" group-title="Deportes",Sky Sports Action HQ (IT)
+http://tvla.xyz:80/cyovmrru/g556Vx2Lpa/34738
+#EXTINF:-1 tvg-id="SkySportsPremiereLeague.uk" tvg-name="Sky Sports 24 Premier League HQ (IT)" tvg-logo="http://hidra.live:80/images/cef969dfd13e807c26c71763b3d68d83.png" group-title="Deportes",Sky Sports 24 Premier League HQ (IT)
+http://tvla.xyz:80/cyovmrru/g556Vx2Lpa/34739
+#EXTINF:-1 tvg-id="AR - DeporTV" tvg-name="DeporTV HD (ARG)" tvg-logo="http://hidra.live:80/images/cc2d8b5521b26272929e8d935fff1fde.png" group-title="Deportes",DeporTV HD (ARG)
+http://tvla.xyz:80/cyovmrru/g556Vx2Lpa/34740
+#EXTINF:-1 tvg-id="MovistarDeportes.pe" tvg-name="Movistar Deportes (PE)" tvg-logo="http://img.tvcl.xyz/deportes/mdeportes.png" group-title="Deportes",Movistar Deportes (PE)
+http://tvla.xyz:80/cyovmrru/g556Vx2Lpa/34743
+#EXTINF:-1 tvg-id="GolPeru.pe" tvg-name="GolPeru SD (PE)" tvg-logo="http://hidra.live:80/images/617a57a4ac9ed501b2196d4a96957319.png" group-title="Deportes",GolPeru SD (PE)
+http://tvla.xyz:80/cyovmrru/g556Vx2Lpa/34744
+#EXTINF:-1 tvg-id="GolPeru.pe" tvg-name="GolPeru FHD (PE)" tvg-logo="http://hidra.live:80/images/617a57a4ac9ed501b2196d4a96957319.png" group-title="Deportes",GolPeru FHD (PE)
+http://tvla.xyz:80/cyovmrru/g556Vx2Lpa/34745
+#EXTINF:-1 tvg-id="AR - DeporTV" tvg-name="DeporTV FHD (ARG)" tvg-logo="http://hidra.live:80/images/cc2d8b5521b26272929e8d935fff1fde.png" group-title="Deportes",DeporTV FHD (ARG)
+http://tvla.xyz:80/cyovmrru/g556Vx2Lpa/123873
+#EXTINF:-1 tvg-id="" tvg-name="Directv Sports HD (PE)" tvg-logo="" group-title="Directv",Directv Sports HD (PE)
+http://tvla.xyz:80/cyovmrru/g556Vx2Lpa/304512
+#EXTINF:-1 tvg-id="" tvg-name="Directv Sports 2 SD (PE)" tvg-logo="" group-title="Directv",Directv Sports 2 SD (PE)
+http://tvla.xyz:80/cyovmrru/g556Vx2Lpa/304516
+#EXTINF:-1 tvg-id="" tvg-name="Directv Sports 2 FHD (PE)" tvg-logo="" group-title="Directv",Directv Sports 2 FHD (PE)
+http://tvla.xyz:80/cyovmrru/g556Vx2Lpa/304518
+#EXTINF:-1 tvg-id="" tvg-name="Directv Sports + SD (PE)" tvg-logo="" group-title="Directv",Directv Sports + SD (PE)
+http://tvla.xyz:80/cyovmrru/g556Vx2Lpa/304519
+#EXTINF:-1 tvg-id="" tvg-name="Directv Sports + FHD (PE)" tvg-logo="" group-title="Directv",Directv Sports + FHD (PE)
+http://tvla.xyz:80/cyovmrru/g556Vx2Lpa/304520
+#EXTINF:-1 tvg-id="" tvg-name="Directv Sports Evento 1 (PE)" tvg-logo="" group-title="Directv",Directv Sports Evento 1 (PE)
+http://tvla.xyz:80/cyovmrru/g556Vx2Lpa/304521
+#EXTINF:-1 tvg-id="" tvg-name="Directv Sports Evento 2 (PE)" tvg-logo="" group-title="Directv",Directv Sports Evento 2 (PE)
+http://tvla.xyz:80/cyovmrru/g556Vx2Lpa/304522
+#EXTINF:-1 tvg-id="" tvg-name="Directv Sports Evento 3 (PE)" tvg-logo="" group-title="Directv",Directv Sports Evento 3 (PE)
+http://tvla.xyz:80/cyovmrru/g556Vx2Lpa/304523
+#EXTINF:-1 tvg-id="" tvg-name="Directv Sports Evento 4 (PE)" tvg-logo="" group-title="Directv",Directv Sports Evento 4 (PE)
+http://tvla.xyz:80/cyovmrru/g556Vx2Lpa/304524
+#EXTINF:-1 tvg-id="" tvg-name="Directv Sports Evento 5 (PE)" tvg-logo="" group-title="Directv",Directv Sports Evento 5 (PE)
+http://tvla.xyz:80/cyovmrru/g556Vx2Lpa/304525
+#EXTINF:-1 tvg-id="" tvg-name="Directv Sports Evento 6 (PE)" tvg-logo="" group-title="Directv",Directv Sports Evento 6 (PE)
+http://tvla.xyz:80/cyovmrru/g556Vx2Lpa/304526
+#EXTINF:-1 tvg-id="" tvg-name="Directv Sports Evento 7 (PE)" tvg-logo="" group-title="Directv",Directv Sports Evento 7 (PE)
+http://tvla.xyz:80/cyovmrru/g556Vx2Lpa/304527
+#EXTINF:-1 tvg-id="" tvg-name="Directv Sports HD (CL)" tvg-logo="" group-title="Directv",Directv Sports HD (CL)
+http://tvla.xyz:80/cyovmrru/g556Vx2Lpa/304529
+#EXTINF:-1 tvg-id="" tvg-name="Directv Sports 2 SD (CL)" tvg-logo="" group-title="Directv",Directv Sports 2 SD (CL)
+http://tvla.xyz:80/cyovmrru/g556Vx2Lpa/304531
+#EXTINF:-1 tvg-id="" tvg-name="Directv Sports + SD (CL)" tvg-logo="" group-title="Directv",Directv Sports + SD (CL)
+http://tvla.xyz:80/cyovmrru/g556Vx2Lpa/304532
+#EXTINF:-1 tvg-id="" tvg-name="Directv Sports HD (ARG)" tvg-logo="" group-title="Directv",Directv Sports HD (ARG)
+http://tvla.xyz:80/cyovmrru/g556Vx2Lpa/304534
+#EXTINF:-1 tvg-id="" tvg-name="Directv Sports FHD (CO)" tvg-logo="" group-title="Directv",Directv Sports FHD (CO)
+http://tvla.xyz:80/cyovmrru/g556Vx2Lpa/304537
+#EXTINF:-1 tvg-id="" tvg-name="Directv Sports HD (CO)" tvg-logo="" group-title="Directv",Directv Sports HD (CO)
+http://tvla.xyz:80/cyovmrru/g556Vx2Lpa/304538
+#EXTINF:-1 tvg-id="" tvg-name="Directv Sports 2 HD (CO)" tvg-logo="" group-title="Directv",Directv Sports 2 HD (CO)
+http://tvla.xyz:80/cyovmrru/g556Vx2Lpa/304541
+#EXTINF:-1 tvg-id="" tvg-name="Directv Sports + HD (CO)" tvg-logo="" group-title="Directv",Directv Sports + HD (CO)
+http://tvla.xyz:80/cyovmrru/g556Vx2Lpa/304542
+#EXTINF:-1 tvg-id="" tvg-name="Directv Sports SD (LAT)" tvg-logo="" group-title="Directv",Directv Sports SD (LAT)
+http://tvla.xyz:80/cyovmrru/g556Vx2Lpa/304543
+#EXTINF:-1 tvg-id="" tvg-name="Directv Sports 2 SD (LAT)" tvg-logo="" group-title="Directv",Directv Sports 2 SD (LAT)
+http://tvla.xyz:80/cyovmrru/g556Vx2Lpa/304545
+#EXTINF:-1 tvg-id="" tvg-name="Directv Sports + FHD (LAT)" tvg-logo="" group-title="Directv",Directv Sports + FHD (LAT)
+http://tvla.xyz:80/cyovmrru/g556Vx2Lpa/304547
+#EXTINF:-1 tvg-id="" tvg-name="Directv Sports 1 SD (PE)" tvg-logo="" group-title="Directv",Directv Sports 1 SD (PE)
+http://tvla.xyz:80/cyovmrru/g556Vx2Lpa/304548
+#EXTINF:-1 tvg-id="" tvg-name="Directv Sports + SD (ARG)" tvg-logo="" group-title="Directv",Directv Sports + SD (ARG)
+http://tvla.xyz:80/cyovmrru/g556Vx2Lpa/304550
+#EXTINF:-1 tvg-id="" tvg-name="Directv Sports 1 SD (ARG)" tvg-logo="" group-title="Directv",Directv Sports 1 SD (ARG)
+http://tvla.xyz:80/cyovmrru/g556Vx2Lpa/304551
+#EXTINF:-1 tvg-id="" tvg-name="Directv Fight FHD (PE)" tvg-logo="" group-title="Directv",Directv Fight FHD (PE)
+http://tvla.xyz:80/cyovmrru/g556Vx2Lpa/304552
+#EXTINF:-1 tvg-id="" tvg-name="Directv Fight HD (PE)" tvg-logo="" group-title="Directv",Directv Fight HD (PE)
+http://tvla.xyz:80/cyovmrru/g556Vx2Lpa/304553
+#EXTINF:-1 tvg-id="" tvg-name="Fox Sports Premium (MX VIP)" tvg-logo="" group-title="Fox Sports",Fox Sports Premium (MX VIP)
+http://tvla.xyz:80/cyovmrru/g556Vx2Lpa/304554
+#EXTINF:-1 tvg-id="CL - TVN" tvg-name="TVN SD (CL)" tvg-logo="http://hidra.live:80/images/441a1754ea7709febd9371cbe8e41d93.png" group-title="Chile",TVN SD (CL)
+http://tvla.xyz:80/cyovmrru/g556Vx2Lpa/35294
+#EXTINF:-1 tvg-id="CL - TVN" tvg-name="TVN HD (CL)" tvg-logo="http://hidra.live:80/images/441a1754ea7709febd9371cbe8e41d93.png" group-title="Chile",TVN HD (CL)
+http://tvla.xyz:80/cyovmrru/g556Vx2Lpa/35295
+#EXTINF:-1 tvg-id="CL - TVN" tvg-name="TVN FHD (CL)" tvg-logo="http://hidra.live:80/images/441a1754ea7709febd9371cbe8e41d93.png" group-title="Chile",TVN FHD (CL)
+http://tvla.xyz:80/cyovmrru/g556Vx2Lpa/35296
+#EXTINF:-1 tvg-id="CL - Mega" tvg-name="Mega SD (CL)" tvg-logo="http://hidra.live:80/images/91805ec00ad20b85226bec0bacf843d3.png" group-title="Chile",Mega SD (CL)
+http://tvla.xyz:80/cyovmrru/g556Vx2Lpa/35297
+#EXTINF:-1 tvg-id="CL - Mega" tvg-name="Mega HD (CL)" tvg-logo="http://hidra.live:80/images/91805ec00ad20b85226bec0bacf843d3.png" group-title="Chile",Mega HD (CL)
+http://tvla.xyz:80/cyovmrru/g556Vx2Lpa/35298
+#EXTINF:-1 tvg-id="CL - Mega" tvg-name="Mega FHD (CL)" tvg-logo="http://hidra.live:80/images/91805ec00ad20b85226bec0bacf843d3.png" group-title="Chile",Mega FHD (CL)
+http://tvla.xyz:80/cyovmrru/g556Vx2Lpa/35299
+#EXTINF:-1 tvg-id="CL - Chilevisión" tvg-name="Chilevision SD (CL)" tvg-logo="http://hidra.live:80/images/52de2ce31c7046f62e68a07eb8807379.png" group-title="Chile",Chilevision SD (CL)
+http://tvla.xyz:80/cyovmrru/g556Vx2Lpa/35300
+#EXTINF:-1 tvg-id="CL - Chilevisión" tvg-name="Chilevision HD (CL)" tvg-logo="http://hidra.live:80/images/52de2ce31c7046f62e68a07eb8807379.png" group-title="Chile",Chilevision HD (CL)
+http://tvla.xyz:80/cyovmrru/g556Vx2Lpa/35301
+#EXTINF:-1 tvg-id="CL - Chilevisión" tvg-name="Chilevision FHD (CL)" tvg-logo="http://hidra.live:80/images/52de2ce31c7046f62e68a07eb8807379.png" group-title="Chile",Chilevision FHD (CL)
+http://tvla.xyz:80/cyovmrru/g556Vx2Lpa/35302
+#EXTINF:-1 tvg-id="CL - Canal 13" tvg-name="Canal 13 SD (CL)" tvg-logo="http://hidra.live:80/images/f1bde9f7f440a7fd4888a9219b78c1dd.png" group-title="Chile",Canal 13 SD (CL)
+http://tvla.xyz:80/cyovmrru/g556Vx2Lpa/35303
+#EXTINF:-1 tvg-id="CL - Canal 13" tvg-name="Canal 13 HD (CL)" tvg-logo="http://hidra.live:80/images/f1bde9f7f440a7fd4888a9219b78c1dd.png" group-title="Chile",Canal 13 HD (CL)
+http://tvla.xyz:80/cyovmrru/g556Vx2Lpa/35304
+#EXTINF:-1 tvg-id="CL - Canal 13" tvg-name="Canal 13 FHD (CL)" tvg-logo="http://hidra.live:80/images/f1bde9f7f440a7fd4888a9219b78c1dd.png" group-title="Chile",Canal 13 FHD (CL)
+http://tvla.xyz:80/cyovmrru/g556Vx2Lpa/35305
+#EXTINF:-1 tvg-id="CL - TV +" tvg-name="TV+ SD (CL)" tvg-logo="http://hidra.live:80/images/2b47c785e5a31bc292cbb31af31e69c2.png" group-title="Chile",TV+ SD (CL)
+http://tvla.xyz:80/cyovmrru/g556Vx2Lpa/35306
+#EXTINF:-1 tvg-id="CL - TV +" tvg-name="TV+ HD (CL)" tvg-logo="http://hidra.live:80/images/2b47c785e5a31bc292cbb31af31e69c2.png" group-title="Chile",TV+ HD (CL)
+http://tvla.xyz:80/cyovmrru/g556Vx2Lpa/35308
+#EXTINF:-1 tvg-id="CL - La Red" tvg-name="La Red SD (CL)" tvg-logo="http://hidra.live:80/images/71c7e03419573844f0a7d0b8009a51e8.png" group-title="Chile",La Red SD (CL)
+http://tvla.xyz:80/cyovmrru/g556Vx2Lpa/35311
+#EXTINF:-1 tvg-id="CL - La Red" tvg-name="La Red HD (CL)" tvg-logo="http://hidra.live:80/images/71c7e03419573844f0a7d0b8009a51e8.png" group-title="Chile",La Red HD (CL)
+http://tvla.xyz:80/cyovmrru/g556Vx2Lpa/35310
+#EXTINF:-1 tvg-id="CL - La Red" tvg-name="La Red FHD (CL)" tvg-logo="http://hidra.live:80/images/71c7e03419573844f0a7d0b8009a51e8.png" group-title="Chile",La Red FHD (CL)
+http://tvla.xyz:80/cyovmrru/g556Vx2Lpa/35309
+#EXTINF:-1 tvg-id="CL - La Red" tvg-name="La Red FHD* (CL)" tvg-logo="http://hidra.live:80/images/71c7e03419573844f0a7d0b8009a51e8.png" group-title="Chile",La Red FHD* (CL)
+http://tvla.xyz:80/cyovmrru/g556Vx2Lpa/57993
+#EXTINF:-1 tvg-id="CL - 13C" tvg-name="13C SD (CL)" tvg-logo="http://hidra.live:80/images/a44987440c0b9efdbd270eb6e4afe279.png" group-title="Chile",13C SD (CL)
+http://tvla.xyz:80/cyovmrru/g556Vx2Lpa/35312
+#EXTINF:-1 tvg-id="BadenTV.de" tvg-name="ADN TV (CL)" tvg-logo="http://hidra.live:80/images/2b90e57c785c7381366da72e5bb025a7.png" group-title="Chile",ADN TV (CL)
+http://tvla.xyz:80/cyovmrru/g556Vx2Lpa/35316
+#EXTINF:-1 tvg-id="Canal9.ni" tvg-name="Bio-Bio Chile TV HD (CL)" tvg-logo="" group-title="Chile",Bio-Bio Chile TV HD (CL)
+http://tvla.xyz:80/cyovmrru/g556Vx2Lpa/35317
+#EXTINF:-1 tvg-id="" tvg-name="Canal 9 Bío Bío HD (CL)" tvg-logo="http://hidra.live:80/images/b2a3fa54a72adde6363d3dd31a483e86.png" group-title="Chile",Canal 9 Bío Bío HD (CL)
+http://tvla.xyz:80/cyovmrru/g556Vx2Lpa/172729
+#EXTINF:-1 tvg-id="CatholicTV.us" tvg-name="Carolina TV HD (CL)" tvg-logo="http://hidra.live:80/images/df86def6149b26164817d01a29a09422.png" group-title="Chile",Carolina TV HD (CL)
+http://tvla.xyz:80/cyovmrru/g556Vx2Lpa/35318
+#EXTINF:-1 tvg-id="CL - REC TV" tvg-name="Rec TV SD (CL)" tvg-logo="http://hidra.live:80/images/f63df8d03361ab6eec451b80b2c23c97.png" group-title="Chile",Rec TV SD (CL)
+http://tvla.xyz:80/cyovmrru/g556Vx2Lpa/35320
+#EXTINF:-1 tvg-id="CL - TV Chile" tvg-name="TV Chile FHD (CL)" tvg-logo="http://hidra.live:80/images/89aac05b2144759571e0c5732b2fa989.png" group-title="Chile",TV Chile FHD (CL)
+http://tvla.xyz:80/cyovmrru/g556Vx2Lpa/35321
+#EXTINF:-1 tvg-id="UCV3.cl" tvg-name="UCV 2 HD (CL)" tvg-logo="http://hidra.live:80/images/5aa23a87c5459af08fb1255eac2f39d6.png" group-title="Chile",UCV 2 HD (CL)
+http://tvla.xyz:80/cyovmrru/g556Vx2Lpa/35322
+#EXTINF:-1 tvg-id="CL - TVEducaChile" tvg-name="TV Educa Chile FHD (CL)" tvg-logo="http://hidra.live:80/images/c021a45b8e72840c105dae98d4f75b6e.png" group-title="Chile",TV Educa Chile FHD (CL)
+http://tvla.xyz:80/cyovmrru/g556Vx2Lpa/47913
+#EXTINF:-1 tvg-id="CL - TV +" tvg-name="TV+ FHD (CL)" tvg-logo="http://hidra.live:80/images/2b47c785e5a31bc292cbb31af31e69c2.png" group-title="Chile",TV+ FHD (CL)
+http://tvla.xyz:80/cyovmrru/g556Vx2Lpa/123889
+#EXTINF:-1 tvg-id="AR - TV Pública" tvg-name="Television Publica HD (ARG)" tvg-logo="http://hidra.live:80/images/b4e07535697baed10942f681fa6619a7.png" group-title="Argentina",Television Publica HD (ARG)
+http://tvla.xyz:80/cyovmrru/g556Vx2Lpa/43308
+#EXTINF:-1 tvg-id="AR - TV Pública" tvg-name="TV Publica FHD (ARG)" tvg-logo="http://hidra.live:80/images/b4e07535697baed10942f681fa6619a7.png" group-title="Argentina",TV Publica FHD (ARG)
+http://tvla.xyz:80/cyovmrru/g556Vx2Lpa/43309
+#EXTINF:-1 tvg-id="AR - Telefe" tvg-name="Telefe SD (ARG)" tvg-logo="http://hidra.live:80/images/d58389a473421bec35846a304cba92ea.png" group-title="Argentina",Telefe SD (ARG)
+http://tvla.xyz:80/cyovmrru/g556Vx2Lpa/43310
+#EXTINF:-1 tvg-id="AR - Telefe" tvg-name="Telefe HD (ARG)" tvg-logo="http://hidra.live:80/images/d58389a473421bec35846a304cba92ea.png" group-title="Argentina",Telefe HD (ARG)
+http://tvla.xyz:80/cyovmrru/g556Vx2Lpa/43311
+#EXTINF:-1 tvg-id="AR - Telefe" tvg-name="Telefe FHD (ARG)" tvg-logo="http://hidra.live:80/images/d58389a473421bec35846a304cba92ea.png" group-title="Argentina",Telefe FHD (ARG)
+http://tvla.xyz:80/cyovmrru/g556Vx2Lpa/43312
+#EXTINF:-1 tvg-id="AR - Canal 13" tvg-name="El Trece HD (ARG)" tvg-logo="http://hidra.live:80/images/0092da95b29792ea8c622ee45e00b33d.png" group-title="Argentina",El Trece HD (ARG)
+http://tvla.xyz:80/cyovmrru/g556Vx2Lpa/43314
+#EXTINF:-1 tvg-id="AR - Canal 13" tvg-name="El Trece FHD (ARG)" tvg-logo="http://hidra.live:80/images/0092da95b29792ea8c622ee45e00b33d.png" group-title="Argentina",El Trece FHD (ARG)
+http://tvla.xyz:80/cyovmrru/g556Vx2Lpa/43315
+#EXTINF:-1 tvg-id="AR - Canal 9" tvg-name="El Nueve SD (ARG)" tvg-logo="http://hidra.live:80/images/0092da95b29792ea8c622ee45e00b33d.png" group-title="Argentina",El Nueve SD (ARG)
+http://tvla.xyz:80/cyovmrru/g556Vx2Lpa/43316
+#EXTINF:-1 tvg-id="AR - Canal 9" tvg-name="El Nueve HD (ARG)" tvg-logo="http://hidra.live:80/images/db1cb80e83ac8ffb0d1344ece5b47fca.png" group-title="Argentina",El Nueve HD (ARG)
+http://tvla.xyz:80/cyovmrru/g556Vx2Lpa/43317
+#EXTINF:-1 tvg-id="AR - Canal 9" tvg-name="El Nueve FHD (ARG)" tvg-logo="http://hidra.live:80/images/db1cb80e83ac8ffb0d1344ece5b47fca.png" group-title="Argentina",El Nueve FHD (ARG)
+http://tvla.xyz:80/cyovmrru/g556Vx2Lpa/43318
+#EXTINF:-1 tvg-id="AR - América TV" tvg-name="America TV SD (ARG)" tvg-logo="http://hidra.live:80/images/47b13ab301e00251bd2f5bbe9e8bfd13.png" group-title="Argentina",America TV SD (ARG)
+http://tvla.xyz:80/cyovmrru/g556Vx2Lpa/43319
+#EXTINF:-1 tvg-id="AR - América TV" tvg-name="America TV HD (ARG)" tvg-logo="http://hidra.live:80/images/47b13ab301e00251bd2f5bbe9e8bfd13.png" group-title="Argentina",America TV HD (ARG)
+http://tvla.xyz:80/cyovmrru/g556Vx2Lpa/43320
+#EXTINF:-1 tvg-id="AR - América TV" tvg-name="America TV FHD (ARG)" tvg-logo="http://hidra.live:80/images/47b13ab301e00251bd2f5bbe9e8bfd13.png" group-title="Argentina",America TV FHD (ARG)
+http://tvla.xyz:80/cyovmrru/g556Vx2Lpa/43321
+#EXTINF:-1 tvg-id="AR - A24" tvg-name="A24 FHD (ARG)" tvg-logo="http://hidra.live:80/images/a43c7f3d9d0f4a718450633e3765b67c.png" group-title="Argentina",A24 FHD (ARG)
+http://tvla.xyz:80/cyovmrru/g556Vx2Lpa/43322
+#EXTINF:-1 tvg-id="AR - A24" tvg-name="A24 HD (ARG)" tvg-logo="http://hidra.live:80/images/a43c7f3d9d0f4a718450633e3765b67c.png" group-title="Argentina",A24 HD (ARG)
+http://tvla.xyz:80/cyovmrru/g556Vx2Lpa/43323
+#EXTINF:-1 tvg-id="AR - Net TV" tvg-name="Net TV HD (ARG)" tvg-logo="http://hidra.live:80/images/194e56cfab207f25a66b881b9f54e0de.png" group-title="Argentina",Net TV HD (ARG)
+http://tvla.xyz:80/cyovmrru/g556Vx2Lpa/43327
+#EXTINF:-1 tvg-id="AR - Tierra Mía TV" tvg-name="Tierramia TV SD (ARG)" tvg-logo="http://hidra.live:80/images/bbfc4653926dfd50d753ce29f406da8b.png" group-title="Argentina",Tierramia TV SD (ARG)
+http://tvla.xyz:80/cyovmrru/g556Vx2Lpa/43329
+#EXTINF:-1 tvg-id="" tvg-name="5RTV Santa Fe HD (ARG)" tvg-logo="http://hidra.live:80/images/70ca9a558d0b6c677933554c0e79a1b4.png" group-title="Argentina",5RTV Santa Fe HD (ARG)
+http://tvla.xyz:80/cyovmrru/g556Vx2Lpa/43333
+#EXTINF:-1 tvg-id="AR - Encuentro" tvg-name="Encuentro HQ (ARG)" tvg-logo="http://hidra.live:80/images/43cfb337f8901990787ec7c8c76e6791.png" group-title="Argentina",Encuentro HQ (ARG)
+http://tvla.xyz:80/cyovmrru/g556Vx2Lpa/43339
+#EXTINF:-1 tvg-id="AR - Cronica" tvg-name="Cronica SD (ARG)" tvg-logo="http://hidra.live:80/images/709544e078cc0c900b005d5bc88efa48.png" group-title="Argentina",Cronica SD (ARG)
+http://tvla.xyz:80/cyovmrru/g556Vx2Lpa/43340
+#EXTINF:-1 tvg-id="AR - CineAr" tvg-name="Cine AR SD (ARG)" tvg-logo="http://hidra.live:80/images/79184b9a36a6bd5528e64407c87100f9.png" group-title="Argentina",Cine AR SD (ARG)
+http://tvla.xyz:80/cyovmrru/g556Vx2Lpa/43342
+#EXTINF:-1 tvg-id="AR - Canal 26" tvg-name="Canal 26 HD (ARG)" tvg-logo="http://hidra.live:80/images/c4bee041c6dc2a63284d059dc70a9f42.png" group-title="Argentina",Canal 26 HD (ARG)
+http://tvla.xyz:80/cyovmrru/g556Vx2Lpa/43343
+#EXTINF:-1 tvg-id="AR - C5N" tvg-name="C5N HD (ARG)" tvg-logo="http://hidra.live:80/images/bfa0e2b6f1134e36360a1261eee7eb9c.png" group-title="Argentina",C5N HD (ARG)
+http://tvla.xyz:80/cyovmrru/g556Vx2Lpa/43344
+#EXTINF:-1 tvg-id="AR - TN" tvg-name="Todo Noticias TN FHD (ARG)" tvg-logo="http://hidra.live:80/images/aafb96b2fa8806be307c4496867bad56.png" group-title="Argentina",Todo Noticias TN FHD (ARG)
+http://tvla.xyz:80/cyovmrru/g556Vx2Lpa/43345
+#EXTINF:-1 tvg-id="AR - Volver" tvg-name="Volver SD (ARG)" tvg-logo="http://hidra.live:80/images/1355df74a25c2afa02592030bdedc24b.png" group-title="Argentina",Volver SD (ARG)
+http://tvla.xyz:80/cyovmrru/g556Vx2Lpa/43346
+#EXTINF:-1 tvg-id="AR - LN+" tvg-name="La Nacion SD (ARG)" tvg-logo="http://hidra.live:80/images/88625dcd2b8ef65b4916803404d089c0.png" group-title="Argentina",La Nacion SD (ARG)
+http://tvla.xyz:80/cyovmrru/g556Vx2Lpa/43347
+#EXTINF:-1 tvg-id="" tvg-name="Canal Provincial San Miguel SD (ARG)" tvg-logo="http://hidra.live:80/images/f19c32ea019fafa3e9bfdf2a0630f483.png" group-title="Argentina",Canal Provincial San Miguel SD (ARG)
+http://tvla.xyz:80/cyovmrru/g556Vx2Lpa/43351
+#EXTINF:-1 tvg-id="AR - Ciudad Magazine" tvg-name="Ciudad Magazine SD (ARG)" tvg-logo="http://hidra.live:80/images/8595000a5a842631d68b584598817060.png" group-title="Argentina",Ciudad Magazine SD (ARG)
+http://tvla.xyz:80/cyovmrru/g556Vx2Lpa/43353
+#EXTINF:-1 tvg-id="EL GARAGE" tvg-name="Garage TV SD (ARG)" tvg-logo="http://hidra.live:80/images/e676daa500f482c6aa2255dba72ae648.png" group-title="Argentina",Garage TV SD (ARG)
+http://tvla.xyz:80/cyovmrru/g556Vx2Lpa/43357
+#EXTINF:-1 tvg-id="Canal21.ar" tvg-name="Orbe 21 SD (ARG)" tvg-logo="http://hidra.live:80/images/93ffe77dc54f39b672519bd8df00104a.png" group-title="Argentina",Orbe 21 SD (ARG)
+http://tvla.xyz:80/cyovmrru/g556Vx2Lpa/43360
+#EXTINF:-1 tvg-id="AR - Quiero" tvg-name="Quiero Musica HD (ARG)" tvg-logo="http://hidra.live:80/images/07690d9a820da1a2cdcd2240e77557ce.png" group-title="Argentina",Quiero Musica HD (ARG)
+http://tvla.xyz:80/cyovmrru/g556Vx2Lpa/43361
+#EXTINF:-1 tvg-id="" tvg-name="Canal A HD (ARG)" tvg-logo="" group-title="Argentina",Canal A HD (ARG)
+http://tvla.xyz:80/cyovmrru/g556Vx2Lpa/123875
+#EXTINF:-1 tvg-id="AR - Ciudad Magazine" tvg-name="Ciudad Magazine HD (ARG)" tvg-logo="http://hidra.live:80/images/8595000a5a842631d68b584598817060.png" group-title="Argentina",Ciudad Magazine HD (ARG)
+http://tvla.xyz:80/cyovmrru/g556Vx2Lpa/123876
+#EXTINF:-1 tvg-id="AR - Cronica" tvg-name="Cronica HD (ARG)" tvg-logo="http://hidra.live:80/images/709544e078cc0c900b005d5bc88efa48.png" group-title="Argentina",Cronica HD (ARG)
+http://tvla.xyz:80/cyovmrru/g556Vx2Lpa/123877
+#EXTINF:-1 tvg-id="AR - LN+" tvg-name="LN + HD (ARG)" tvg-logo="" group-title="Argentina",LN + HD (ARG)
+http://tvla.xyz:80/cyovmrru/g556Vx2Lpa/123878
+#EXTINF:-1 tvg-id="" tvg-name="ES: La 1 SD" tvg-logo="" group-title="España",ES: La 1 SD
+http://tvla.xyz:80/cyovmrru/g556Vx2Lpa/303667
+#EXTINF:-1 tvg-id="" tvg-name="ES: La 1 HD 2MB" tvg-logo="" group-title="España",ES: La 1 HD 2MB
+http://tvla.xyz:80/cyovmrru/g556Vx2Lpa/303668
+#EXTINF:-1 tvg-id="" tvg-name="ES: La 1 FHD" tvg-logo="" group-title="España",ES: La 1 FHD
+http://tvla.xyz:80/cyovmrru/g556Vx2Lpa/303669
+#EXTINF:-1 tvg-id="" tvg-name="ES: La 2 SD" tvg-logo="" group-title="España",ES: La 2 SD
+http://tvla.xyz:80/cyovmrru/g556Vx2Lpa/303670
+#EXTINF:-1 tvg-id="" tvg-name="ES: La 2 HD 2Mb" tvg-logo="" group-title="España",ES: La 2 HD 2Mb
+http://tvla.xyz:80/cyovmrru/g556Vx2Lpa/303671
+#EXTINF:-1 tvg-id="" tvg-name="ES: LA 2 FHD" tvg-logo="" group-title="España",ES: LA 2 FHD
+http://tvla.xyz:80/cyovmrru/g556Vx2Lpa/303672
+#EXTINF:-1 tvg-id="" tvg-name="ES: Antena 3 SD" tvg-logo="" group-title="España",ES: Antena 3 SD
+http://tvla.xyz:80/cyovmrru/g556Vx2Lpa/303673
+#EXTINF:-1 tvg-id="" tvg-name="ES: Antena 3 HD 2Mb" tvg-logo="" group-title="España",ES: Antena 3 HD 2Mb
+http://tvla.xyz:80/cyovmrru/g556Vx2Lpa/303674
+#EXTINF:-1 tvg-id="" tvg-name="ES: Antena 3 FHD" tvg-logo="" group-title="España",ES: Antena 3 FHD
+http://tvla.xyz:80/cyovmrru/g556Vx2Lpa/303675
+#EXTINF:-1 tvg-id="" tvg-name="ES: Cuatro SD" tvg-logo="" group-title="España",ES: Cuatro SD
+http://tvla.xyz:80/cyovmrru/g556Vx2Lpa/303676
+#EXTINF:-1 tvg-id="" tvg-name="ES: Cuatro HD 2Mb" tvg-logo="" group-title="España",ES: Cuatro HD 2Mb
+http://tvla.xyz:80/cyovmrru/g556Vx2Lpa/303677
+#EXTINF:-1 tvg-id="" tvg-name="ES: Cuatro FHD" tvg-logo="" group-title="España",ES: Cuatro FHD
+http://tvla.xyz:80/cyovmrru/g556Vx2Lpa/303678
+#EXTINF:-1 tvg-id="" tvg-name="ES: TeleCinco SD" tvg-logo="" group-title="España",ES: TeleCinco SD
+http://tvla.xyz:80/cyovmrru/g556Vx2Lpa/303679
+#EXTINF:-1 tvg-id="" tvg-name="ES: Telecinco HD 2Mb" tvg-logo="" group-title="España",ES: Telecinco HD 2Mb
+http://tvla.xyz:80/cyovmrru/g556Vx2Lpa/303680
+#EXTINF:-1 tvg-id="" tvg-name="ES: Telecinco FHD" tvg-logo="" group-title="España",ES: Telecinco FHD
+http://tvla.xyz:80/cyovmrru/g556Vx2Lpa/303681
+#EXTINF:-1 tvg-id="" tvg-name="ES: La Sexta SD" tvg-logo="" group-title="España",ES: La Sexta SD
+http://tvla.xyz:80/cyovmrru/g556Vx2Lpa/303682
+#EXTINF:-1 tvg-id="" tvg-name="ES: La Sexta HD 2Mb" tvg-logo="" group-title="España",ES: La Sexta HD 2Mb
+http://tvla.xyz:80/cyovmrru/g556Vx2Lpa/303683
+#EXTINF:-1 tvg-id="" tvg-name="ES: La Sexta FHD" tvg-logo="" group-title="España",ES: La Sexta FHD
+http://tvla.xyz:80/cyovmrru/g556Vx2Lpa/303684
+#EXTINF:-1 tvg-id="" tvg-name="ES: FDF SD" tvg-logo="" group-title="España",ES: FDF SD
+http://tvla.xyz:80/cyovmrru/g556Vx2Lpa/303685
+#EXTINF:-1 tvg-id="" tvg-name="ES: Energy SD" tvg-logo="" group-title="España",ES: Energy SD
+http://tvla.xyz:80/cyovmrru/g556Vx2Lpa/303686
+#EXTINF:-1 tvg-id="" tvg-name="ES: DMax FHD" tvg-logo="" group-title="España",ES: DMax FHD
+http://tvla.xyz:80/cyovmrru/g556Vx2Lpa/303687
+#EXTINF:-1 tvg-id="" tvg-name="ES: Divinity SD" tvg-logo="" group-title="España",ES: Divinity SD
+http://tvla.xyz:80/cyovmrru/g556Vx2Lpa/303688
+#EXTINF:-1 tvg-id="" tvg-name="ES: Nova SD" tvg-logo="" group-title="España",ES: Nova SD
+http://tvla.xyz:80/cyovmrru/g556Vx2Lpa/303689
+#EXTINF:-1 tvg-id="" tvg-name="ES: Nova FHD" tvg-logo="" group-title="España",ES: Nova FHD
+http://tvla.xyz:80/cyovmrru/g556Vx2Lpa/303690
+#EXTINF:-1 tvg-id="" tvg-name="ES: Neox SD" tvg-logo="" group-title="España",ES: Neox SD
+http://tvla.xyz:80/cyovmrru/g556Vx2Lpa/303691
+#EXTINF:-1 tvg-id="" tvg-name="ES: Neox FHD" tvg-logo="" group-title="España",ES: Neox FHD
+http://tvla.xyz:80/cyovmrru/g556Vx2Lpa/303692
+#EXTINF:-1 tvg-id="" tvg-name="ES: Mega SD" tvg-logo="" group-title="España",ES: Mega SD
+http://tvla.xyz:80/cyovmrru/g556Vx2Lpa/303693
+#EXTINF:-1 tvg-id="" tvg-name="ES: Mega HD" tvg-logo="" group-title="España",ES: Mega HD
+http://tvla.xyz:80/cyovmrru/g556Vx2Lpa/303694
+#EXTINF:-1 tvg-id="" tvg-name="ES: BE Mad HD" tvg-logo="" group-title="España",ES: BE Mad HD
+http://tvla.xyz:80/cyovmrru/g556Vx2Lpa/303695
+#EXTINF:-1 tvg-id="" tvg-name="ES: BE Mad FHD" tvg-logo="" group-title="España",ES: BE Mad FHD
+http://tvla.xyz:80/cyovmrru/g556Vx2Lpa/303696
+#EXTINF:-1 tvg-id="" tvg-name="ES: A3Series FHD" tvg-logo="" group-title="España",ES: A3Series FHD
+http://tvla.xyz:80/cyovmrru/g556Vx2Lpa/303697
+#EXTINF:-1 tvg-id="" tvg-name="ES: DKiss TV " tvg-logo="" group-title="España",ES: DKiss TV 
+http://tvla.xyz:80/cyovmrru/g556Vx2Lpa/303698
+#EXTINF:-1 tvg-id="" tvg-name="ES: Bom Cine HD" tvg-logo="" group-title="España",ES: Bom Cine HD
+http://tvla.xyz:80/cyovmrru/g556Vx2Lpa/303699
+#EXTINF:-1 tvg-id="" tvg-name="ES: 24 Horas SD" tvg-logo="" group-title="España",ES: 24 Horas SD
+http://tvla.xyz:80/cyovmrru/g556Vx2Lpa/303700
+#EXTINF:-1 tvg-id="" tvg-name="ES: 24 Horas FHD" tvg-logo="" group-title="España",ES: 24 Horas FHD
+http://tvla.xyz:80/cyovmrru/g556Vx2Lpa/303701
+#EXTINF:-1 tvg-id="" tvg-name="ES: Intereconomia FHD" tvg-logo="" group-title="España",ES: Intereconomia FHD
+http://tvla.xyz:80/cyovmrru/g556Vx2Lpa/303702
+#EXTINF:-1 tvg-id="" tvg-name="ES: El Toro TV FHD" tvg-logo="" group-title="España",ES: El Toro TV FHD
+http://tvla.xyz:80/cyovmrru/g556Vx2Lpa/303703
+#EXTINF:-1 tvg-id="" tvg-name="ES: Trece SD" tvg-logo="" group-title="España",ES: Trece SD
+http://tvla.xyz:80/cyovmrru/g556Vx2Lpa/303704
+#EXTINF:-1 tvg-id="" tvg-name="ES: Ten SD" tvg-logo="" group-title="España",ES: Ten SD
+http://tvla.xyz:80/cyovmrru/g556Vx2Lpa/303705
+#EXTINF:-1 tvg-id="" tvg-name="ES: Coronavirus TV  24/7" tvg-logo="" group-title="España",ES: Coronavirus TV  24/7
+http://tvla.xyz:80/cyovmrru/g556Vx2Lpa/303706
+#EXTINF:-1 tvg-id="" tvg-name="ES: 7RM FHD" tvg-logo="" group-title="España",ES: 7RM FHD
+http://tvla.xyz:80/cyovmrru/g556Vx2Lpa/303707
+#EXTINF:-1 tvg-id="" tvg-name="ES: 7TV Sevilla SD" tvg-logo="" group-title="España",ES: 7TV Sevilla SD
+http://tvla.xyz:80/cyovmrru/g556Vx2Lpa/303708
+#EXTINF:-1 tvg-id="" tvg-name="ES: 8 TV SD" tvg-logo="" group-title="España",ES: 8 TV SD
+http://tvla.xyz:80/cyovmrru/g556Vx2Lpa/303709
+#EXTINF:-1 tvg-id="" tvg-name="ES: 8 TV FHD" tvg-logo="" group-title="España",ES: 8 TV FHD
+http://tvla.xyz:80/cyovmrru/g556Vx2Lpa/303710
+#EXTINF:-1 tvg-id="" tvg-name="ES: Tv3 SD" tvg-logo="" group-title="España",ES: Tv3 SD
+http://tvla.xyz:80/cyovmrru/g556Vx2Lpa/303711
+#EXTINF:-1 tvg-id="" tvg-name="ES: Esport 3 SD" tvg-logo="" group-title="España",ES: Esport 3 SD
+http://tvla.xyz:80/cyovmrru/g556Vx2Lpa/303712
+#EXTINF:-1 tvg-id="" tvg-name="ES: IB3 Global SD" tvg-logo="" group-title="España",ES: IB3 Global SD
+http://tvla.xyz:80/cyovmrru/g556Vx2Lpa/303713
+#EXTINF:-1 tvg-id="" tvg-name="ES: Fibracat Tv FHD" tvg-logo="" group-title="España",ES: Fibracat Tv FHD
+http://tvla.xyz:80/cyovmrru/g556Vx2Lpa/303714
+#EXTINF:-1 tvg-id="" tvg-name="ES: Super 3/33 SD" tvg-logo="" group-title="España",ES: Super 3/33 SD
+http://tvla.xyz:80/cyovmrru/g556Vx2Lpa/303715
+#EXTINF:-1 tvg-id="" tvg-name="ES: 3/24 SD" tvg-logo="" group-title="España",ES: 3/24 SD
+http://tvla.xyz:80/cyovmrru/g556Vx2Lpa/303716
+#EXTINF:-1 tvg-id="" tvg-name="ES: Canal Sur HD" tvg-logo="" group-title="España",ES: Canal Sur HD
+http://tvla.xyz:80/cyovmrru/g556Vx2Lpa/303717
+#EXTINF:-1 tvg-id="" tvg-name="ES: Aragon Tv SD" tvg-logo="" group-title="España",ES: Aragon Tv SD
+http://tvla.xyz:80/cyovmrru/g556Vx2Lpa/303718
+#EXTINF:-1 tvg-id="" tvg-name="ES: TV3 SD" tvg-logo="" group-title="España",ES: TV3 SD
+http://tvla.xyz:80/cyovmrru/g556Vx2Lpa/303719
+#EXTINF:-1 tvg-id="" tvg-name="ES: A Punt SD" tvg-logo="" group-title="España",ES: A Punt SD
+http://tvla.xyz:80/cyovmrru/g556Vx2Lpa/303720
+#EXTINF:-1 tvg-id="" tvg-name="ES: TeleMadrid HD" tvg-logo="" group-title="España",ES: TeleMadrid HD
+http://tvla.xyz:80/cyovmrru/g556Vx2Lpa/303721
+#EXTINF:-1 tvg-id="" tvg-name="ES: La Otra HD" tvg-logo="" group-title="España",ES: La Otra HD
+http://tvla.xyz:80/cyovmrru/g556Vx2Lpa/303722
+#EXTINF:-1 tvg-id="" tvg-name="ES: Galicia TV HD" tvg-logo="" group-title="España",ES: Galicia TV HD
+http://tvla.xyz:80/cyovmrru/g556Vx2Lpa/303723
+#EXTINF:-1 tvg-id="" tvg-name="ES: Galicia TV 2 HD" tvg-logo="" group-title="España",ES: Galicia TV 2 HD
+http://tvla.xyz:80/cyovmrru/g556Vx2Lpa/303724
+#EXTINF:-1 tvg-id="" tvg-name="ES: CMM TV HD" tvg-logo="" group-title="España",ES: CMM TV HD
+http://tvla.xyz:80/cyovmrru/g556Vx2Lpa/303725
+#EXTINF:-1 tvg-id="" tvg-name="ES: ETB 1 HD" tvg-logo="" group-title="España",ES: ETB 1 HD
+http://tvla.xyz:80/cyovmrru/g556Vx2Lpa/303726
+#EXTINF:-1 tvg-id="" tvg-name="ES: ETB 2 HD" tvg-logo="" group-title="España",ES: ETB 2 HD
+http://tvla.xyz:80/cyovmrru/g556Vx2Lpa/303727
+#EXTINF:-1 tvg-id="" tvg-name="ES: Teleonuba HD" tvg-logo="" group-title="España",ES: Teleonuba HD
+http://tvla.xyz:80/cyovmrru/g556Vx2Lpa/303728
+#EXTINF:-1 tvg-id="" tvg-name="ES: TV Canaria FHD" tvg-logo="" group-title="España",ES: TV Canaria FHD
+http://tvla.xyz:80/cyovmrru/g556Vx2Lpa/303729
+#EXTINF:-1 tvg-id="" tvg-name="ES: Tpa Asturias SD" tvg-logo="" group-title="España",ES: Tpa Asturias SD
+http://tvla.xyz:80/cyovmrru/g556Vx2Lpa/303730
+#EXTINF:-1 tvg-id="" tvg-name="ES: Sal TV Cadiz HD" tvg-logo="" group-title="España",ES: Sal TV Cadiz HD
+http://tvla.xyz:80/cyovmrru/g556Vx2Lpa/303731
+#EXTINF:-1 tvg-id="" tvg-name="ES: Onda Cadiz Tv SD" tvg-logo="" group-title="España",ES: Onda Cadiz Tv SD
+http://tvla.xyz:80/cyovmrru/g556Vx2Lpa/303732
+#EXTINF:-1 tvg-id="" tvg-name="ES: Canal Parlamento SD" tvg-logo="" group-title="España",ES: Canal Parlamento SD
+http://tvla.xyz:80/cyovmrru/g556Vx2Lpa/303733
+#EXTINF:-1 tvg-id="" tvg-name="ES: M. LaLiga SD" tvg-logo="" group-title="España",ES: M. LaLiga SD
+http://tvla.xyz:80/cyovmrru/g556Vx2Lpa/303734
+#EXTINF:-1 tvg-id="" tvg-name="ES: M. LaLiga HD" tvg-logo="" group-title="España",ES: M. LaLiga HD
+http://tvla.xyz:80/cyovmrru/g556Vx2Lpa/303735
+#EXTINF:-1 tvg-id="" tvg-name="ES: M. LaLiga FHD" tvg-logo="" group-title="España",ES: M. LaLiga FHD
+http://tvla.xyz:80/cyovmrru/g556Vx2Lpa/303736
+#EXTINF:-1 tvg-id="" tvg-name="ES: M.LaLiga HD 2Mb" tvg-logo="" group-title="España",ES: M.LaLiga HD 2Mb
+http://tvla.xyz:80/cyovmrru/g556Vx2Lpa/303737
+#EXTINF:-1 tvg-id="" tvg-name="ES: M.LaLiga FHD 2Mb" tvg-logo="" group-title="España",ES: M.LaLiga FHD 2Mb
+http://tvla.xyz:80/cyovmrru/g556Vx2Lpa/303738
+#EXTINF:-1 tvg-id="" tvg-name="ES: M. LaLiga 1 SD" tvg-logo="" group-title="España",ES: M. LaLiga 1 SD
+http://tvla.xyz:80/cyovmrru/g556Vx2Lpa/303739
+#EXTINF:-1 tvg-id="" tvg-name="ES: M.Liga 1 HD 2Mb" tvg-logo="" group-title="España",ES: M.Liga 1 HD 2Mb
+http://tvla.xyz:80/cyovmrru/g556Vx2Lpa/303740
+#EXTINF:-1 tvg-id="" tvg-name="ES: M. LaLiga 1 FHD" tvg-logo="" group-title="España",ES: M. LaLiga 1 FHD
+http://tvla.xyz:80/cyovmrru/g556Vx2Lpa/303741
+#EXTINF:-1 tvg-id="" tvg-name="ES: M. LaLiga 2 SD" tvg-logo="" group-title="España",ES: M. LaLiga 2 SD
+http://tvla.xyz:80/cyovmrru/g556Vx2Lpa/303742
+#EXTINF:-1 tvg-id="" tvg-name="ES: M.Liga 2 HD 2Mb" tvg-logo="" group-title="España",ES: M.Liga 2 HD 2Mb
+http://tvla.xyz:80/cyovmrru/g556Vx2Lpa/303743
+#EXTINF:-1 tvg-id="" tvg-name="ES: M. LaLiga 2 FHD" tvg-logo="" group-title="España",ES: M. LaLiga 2 FHD
+http://tvla.xyz:80/cyovmrru/g556Vx2Lpa/303744
+#EXTINF:-1 tvg-id="" tvg-name="ES: M. LaLiga 3 SD" tvg-logo="" group-title="España",ES: M. LaLiga 3 SD
+http://tvla.xyz:80/cyovmrru/g556Vx2Lpa/303745
+#EXTINF:-1 tvg-id="" tvg-name="ES: M. LaLiga 3 FHD" tvg-logo="" group-title="España",ES: M. LaLiga 3 FHD
+http://tvla.xyz:80/cyovmrru/g556Vx2Lpa/303746
+#EXTINF:-1 tvg-id="" tvg-name="ES: M.Liga 3 HD 2Mb" tvg-logo="" group-title="España",ES: M.Liga 3 HD 2Mb
+http://tvla.xyz:80/cyovmrru/g556Vx2Lpa/303747
+#EXTINF:-1 tvg-id="" tvg-name="ES: M. LaLiga 4 FHD" tvg-logo="" group-title="España",ES: M. LaLiga 4 FHD
+http://tvla.xyz:80/cyovmrru/g556Vx2Lpa/303748
+#EXTINF:-1 tvg-id="" tvg-name="ES: M. LaLiga 4 SD " tvg-logo="" group-title="España",ES: M. LaLiga 4 SD 
+http://tvla.xyz:80/cyovmrru/g556Vx2Lpa/303749
+#EXTINF:-1 tvg-id="" tvg-name="ES: M. LaLiga 5 SD" tvg-logo="" group-title="España",ES: M. LaLiga 5 SD
+http://tvla.xyz:80/cyovmrru/g556Vx2Lpa/303750
+#EXTINF:-1 tvg-id="" tvg-name="ES: M. LaLiga 6 SD" tvg-logo="" group-title="España",ES: M. LaLiga 6 SD
+http://tvla.xyz:80/cyovmrru/g556Vx2Lpa/303751
+#EXTINF:-1 tvg-id="" tvg-name="ES: M. LaLiga 7 SD" tvg-logo="" group-title="España",ES: M. LaLiga 7 SD
+http://tvla.xyz:80/cyovmrru/g556Vx2Lpa/303752
+#EXTINF:-1 tvg-id="" tvg-name="ES: M. LaLiga 8 SD" tvg-logo="" group-title="España",ES: M. LaLiga 8 SD
+http://tvla.xyz:80/cyovmrru/g556Vx2Lpa/303753
+#EXTINF:-1 tvg-id="" tvg-name="ES: M. LaLiga 9 SD" tvg-logo="" group-title="España",ES: M. LaLiga 9 SD
+http://tvla.xyz:80/cyovmrru/g556Vx2Lpa/303754
+#EXTINF:-1 tvg-id="" tvg-name="ES: M. LaLiga 10 SD" tvg-logo="" group-title="España",ES: M. LaLiga 10 SD
+http://tvla.xyz:80/cyovmrru/g556Vx2Lpa/303755
+#EXTINF:-1 tvg-id="" tvg-name="ES: LaLiga TV BAR HD" tvg-logo="" group-title="España",ES: LaLiga TV BAR HD
+http://tvla.xyz:80/cyovmrru/g556Vx2Lpa/303756
+#EXTINF:-1 tvg-id="" tvg-name="ES: Sky Sport La Liga HD" tvg-logo="" group-title="España",ES: Sky Sport La Liga HD
+http://tvla.xyz:80/cyovmrru/g556Vx2Lpa/303757
+#EXTINF:-1 tvg-id="" tvg-name="ES: M. LCampeones SD" tvg-logo="" group-title="España",ES: M. LCampeones SD
+http://tvla.xyz:80/cyovmrru/g556Vx2Lpa/303758
+#EXTINF:-1 tvg-id="" tvg-name="ES: ES: M.Liga Campeones HD 2Mb" tvg-logo="" group-title="España",ES: ES: M.Liga Campeones HD 2Mb
+http://tvla.xyz:80/cyovmrru/g556Vx2Lpa/303759
+#EXTINF:-1 tvg-id="" tvg-name="ES: M. LCampeones FHD" tvg-logo="" group-title="España",ES: M. LCampeones FHD
+http://tvla.xyz:80/cyovmrru/g556Vx2Lpa/303760
+#EXTINF:-1 tvg-id="" tvg-name="ES: M.Liga de Campeones FHD 2Mb" tvg-logo="" group-title="España",ES: M.Liga de Campeones FHD 2Mb
+http://tvla.xyz:80/cyovmrru/g556Vx2Lpa/303761
+#EXTINF:-1 tvg-id="" tvg-name="ES: M.Liga Camepones 1 SD" tvg-logo="" group-title="España",ES: M.Liga Camepones 1 SD
+http://tvla.xyz:80/cyovmrru/g556Vx2Lpa/303762
+#EXTINF:-1 tvg-id="" tvg-name="ES: M.Liga Campeones 1 HD 2Mb" tvg-logo="" group-title="España",ES: M.Liga Campeones 1 HD 2Mb
+http://tvla.xyz:80/cyovmrru/g556Vx2Lpa/303763
+#EXTINF:-1 tvg-id="" tvg-name="ES: M. LCampeones 1 FHD" tvg-logo="" group-title="España",ES: M. LCampeones 1 FHD
+http://tvla.xyz:80/cyovmrru/g556Vx2Lpa/303764
+#EXTINF:-1 tvg-id="" tvg-name="ES: M.Liga Campeones 2 SD" tvg-logo="" group-title="España",ES: M.Liga Campeones 2 SD
+http://tvla.xyz:80/cyovmrru/g556Vx2Lpa/303765
+#EXTINF:-1 tvg-id="" tvg-name="ES: M.Liga Campeones 2 FHD" tvg-logo="" group-title="España",ES: M.Liga Campeones 2 FHD
+http://tvla.xyz:80/cyovmrru/g556Vx2Lpa/303766
+#EXTINF:-1 tvg-id="" tvg-name="ES: M. LCampeones 3 FHD" tvg-logo="" group-title="España",ES: M. LCampeones 3 FHD
+http://tvla.xyz:80/cyovmrru/g556Vx2Lpa/303767
+#EXTINF:-1 tvg-id="" tvg-name="ES: M. LCampeones 3 SD" tvg-logo="" group-title="España",ES: M. LCampeones 3 SD
+http://tvla.xyz:80/cyovmrru/g556Vx2Lpa/303768
+#EXTINF:-1 tvg-id="" tvg-name="ES: M. LCampeones 4 FHD" tvg-logo="" group-title="España",ES: M. LCampeones 4 FHD
+http://tvla.xyz:80/cyovmrru/g556Vx2Lpa/303769
+#EXTINF:-1 tvg-id="" tvg-name="ES: M. LCampeones 4 SD" tvg-logo="" group-title="España",ES: M. LCampeones 4 SD
+http://tvla.xyz:80/cyovmrru/g556Vx2Lpa/303770
+#EXTINF:-1 tvg-id="" tvg-name="ES: M. LCampeones 5 SD" tvg-logo="" group-title="España",ES: M. LCampeones 5 SD
+http://tvla.xyz:80/cyovmrru/g556Vx2Lpa/303771
+#EXTINF:-1 tvg-id="" tvg-name="ES: M. LCampeones 6 SD" tvg-logo="" group-title="España",ES: M. LCampeones 6 SD
+http://tvla.xyz:80/cyovmrru/g556Vx2Lpa/303772
+#EXTINF:-1 tvg-id="" tvg-name="ES: M. LCampeones 7 SD" tvg-logo="" group-title="España",ES: M. LCampeones 7 SD
+http://tvla.xyz:80/cyovmrru/g556Vx2Lpa/303773
+#EXTINF:-1 tvg-id="" tvg-name="ES: M. LCampeones 8 SD" tvg-logo="" group-title="España",ES: M. LCampeones 8 SD
+http://tvla.xyz:80/cyovmrru/g556Vx2Lpa/303774
+#EXTINF:-1 tvg-id="" tvg-name="ES: M. LCampeones 9 SD" tvg-logo="" group-title="España",ES: M. LCampeones 9 SD
+http://tvla.xyz:80/cyovmrru/g556Vx2Lpa/303775
+#EXTINF:-1 tvg-id="" tvg-name="ES: M. LCampeones 10 SD" tvg-logo="" group-title="España",ES: M. LCampeones 10 SD
+http://tvla.xyz:80/cyovmrru/g556Vx2Lpa/303776
+#EXTINF:-1 tvg-id="" tvg-name="ES: M. LCampeones 11 SD" tvg-logo="" group-title="España",ES: M. LCampeones 11 SD
+http://tvla.xyz:80/cyovmrru/g556Vx2Lpa/303777
+#EXTINF:-1 tvg-id="" tvg-name="ES: M. LCampeones 12 SD" tvg-logo="" group-title="España",ES: M. LCampeones 12 SD
+http://tvla.xyz:80/cyovmrru/g556Vx2Lpa/303778
+#EXTINF:-1 tvg-id="" tvg-name="ES: Dazn 1 SD" tvg-logo="" group-title="Dazn",ES: Dazn 1 SD
+http://tvla.xyz:80/cyovmrru/g556Vx2Lpa/303779
+#EXTINF:-1 tvg-id="" tvg-name="ES: Dazn 1 FHD" tvg-logo="" group-title="Dazn",ES: Dazn 1 FHD
+http://tvla.xyz:80/cyovmrru/g556Vx2Lpa/303780
+#EXTINF:-1 tvg-id="" tvg-name="ES: Dazn 2 SD" tvg-logo="" group-title="Dazn",ES: Dazn 2 SD
+http://tvla.xyz:80/cyovmrru/g556Vx2Lpa/303781
+#EXTINF:-1 tvg-id="" tvg-name="ES: Dazn 2 FHD" tvg-logo="" group-title="Dazn",ES: Dazn 2 FHD
+http://tvla.xyz:80/cyovmrru/g556Vx2Lpa/303782
+#EXTINF:-1 tvg-id="" tvg-name="ES: Dazn 3 SD" tvg-logo="" group-title="Dazn",ES: Dazn 3 SD
+http://tvla.xyz:80/cyovmrru/g556Vx2Lpa/303783
+#EXTINF:-1 tvg-id="" tvg-name="ES: Dazn 3 FHD" tvg-logo="" group-title="Dazn",ES: Dazn 3 FHD
+http://tvla.xyz:80/cyovmrru/g556Vx2Lpa/303784
+#EXTINF:-1 tvg-id="" tvg-name="ES: Dazn 4 SD" tvg-logo="" group-title="Dazn",ES: Dazn 4 SD
+http://tvla.xyz:80/cyovmrru/g556Vx2Lpa/303785
+#EXTINF:-1 tvg-id="" tvg-name="ES: Dazn 4 FHD" tvg-logo="" group-title="Dazn",ES: Dazn 4 FHD
+http://tvla.xyz:80/cyovmrru/g556Vx2Lpa/303786
+#EXTINF:-1 tvg-id="" tvg-name="ES: Dazn 1 FHD 2Mb" tvg-logo="" group-title="Dazn",ES: Dazn 1 FHD 2Mb
+http://tvla.xyz:80/cyovmrru/g556Vx2Lpa/303787
+#EXTINF:-1 tvg-id="" tvg-name="ES: Dazn 2 FHD 2Mb" tvg-logo="" group-title="Dazn",ES: Dazn 2 FHD 2Mb
+http://tvla.xyz:80/cyovmrru/g556Vx2Lpa/303788
+#EXTINF:-1 tvg-id="" tvg-name="ES: Dazn 3 FHD 2Mb" tvg-logo="" group-title="Dazn",ES: Dazn 3 FHD 2Mb
+http://tvla.xyz:80/cyovmrru/g556Vx2Lpa/303789
+#EXTINF:-1 tvg-id="" tvg-name="ES: Dazn 4 FHD 2Mb" tvg-logo="" group-title="Dazn",ES: Dazn 4 FHD 2Mb
+http://tvla.xyz:80/cyovmrru/g556Vx2Lpa/303790
+#EXTINF:-1 tvg-id="" tvg-name="ES: ESPN 1 HD" tvg-logo="" group-title="España",ES: ESPN 1 HD
+http://tvla.xyz:80/cyovmrru/g556Vx2Lpa/303791
+#EXTINF:-1 tvg-id="" tvg-name="ES: ESPN 2 HD" tvg-logo="" group-title="España",ES: ESPN 2 HD
+http://tvla.xyz:80/cyovmrru/g556Vx2Lpa/303792
+#EXTINF:-1 tvg-id="" tvg-name="ES: ESPN 3 HD" tvg-logo="" group-title="España",ES: ESPN 3 HD
+http://tvla.xyz:80/cyovmrru/g556Vx2Lpa/303793
+#EXTINF:-1 tvg-id="" tvg-name="ES: ESPN+ FHD" tvg-logo="" group-title="España",ES: ESPN+ FHD
+http://tvla.xyz:80/cyovmrru/g556Vx2Lpa/303794
+#EXTINF:-1 tvg-id="" tvg-name="ES: Rmc Sport UHD" tvg-logo="" group-title="España",ES: Rmc Sport UHD
+http://tvla.xyz:80/cyovmrru/g556Vx2Lpa/303795
+#EXTINF:-1 tvg-id="" tvg-name="ES: Canal+ Sport UHD (Solo Eventos) SD" tvg-logo="" group-title="España",ES: Canal+ Sport UHD (Solo Eventos) SD
+http://tvla.xyz:80/cyovmrru/g556Vx2Lpa/303796
+#EXTINF:-1 tvg-id="" tvg-name="ES: Gol SD" tvg-logo="" group-title="España",ES: Gol SD
+http://tvla.xyz:80/cyovmrru/g556Vx2Lpa/303797
+#EXTINF:-1 tvg-id="" tvg-name="ES: Gol FHD " tvg-logo="" group-title="España",ES: Gol FHD 
+http://tvla.xyz:80/cyovmrru/g556Vx2Lpa/303798
+#EXTINF:-1 tvg-id="" tvg-name="ES: Real Madrid TV FHD" tvg-logo="" group-title="España",ES: Real Madrid TV FHD
+http://tvla.xyz:80/cyovmrru/g556Vx2Lpa/303799
+#EXTINF:-1 tvg-id="" tvg-name="ES: R. Madrid TV FHD" tvg-logo="" group-title="España",ES: R. Madrid TV FHD
+http://tvla.xyz:80/cyovmrru/g556Vx2Lpa/303800
+#EXTINF:-1 tvg-id="" tvg-name="ES: Barca TV SD" tvg-logo="" group-title="España",ES: Barca TV SD
+http://tvla.xyz:80/cyovmrru/g556Vx2Lpa/303801
+#EXTINF:-1 tvg-id="" tvg-name="ES: Barca TV FHD" tvg-logo="" group-title="España",ES: Barca TV FHD
+http://tvla.xyz:80/cyovmrru/g556Vx2Lpa/303802
+#EXTINF:-1 tvg-id="" tvg-name="ES: Sevilla Tv SD" tvg-logo="" group-title="España",ES: Sevilla Tv SD
+http://tvla.xyz:80/cyovmrru/g556Vx2Lpa/303803
+#EXTINF:-1 tvg-id="" tvg-name="ES: Betis TV SD" tvg-logo="" group-title="España",ES: Betis TV SD
+http://tvla.xyz:80/cyovmrru/g556Vx2Lpa/303804
+#EXTINF:-1 tvg-id="" tvg-name="ES: Multideporte SD" tvg-logo="" group-title="España",ES: Multideporte SD
+http://tvla.xyz:80/cyovmrru/g556Vx2Lpa/303805
+#EXTINF:-1 tvg-id="" tvg-name="ES: Dazn Formula 1 SD" tvg-logo="" group-title="Formula 1",ES: Dazn Formula 1 SD
+http://tvla.xyz:80/cyovmrru/g556Vx2Lpa/303806
+#EXTINF:-1 tvg-id="" tvg-name="ES: Dazn Formula 1 FHD 2Mb" tvg-logo="" group-title="Formula 1",ES: Dazn Formula 1 FHD 2Mb
+http://tvla.xyz:80/cyovmrru/g556Vx2Lpa/303807
+#EXTINF:-1 tvg-id="" tvg-name="ES: Dazn Formula 1 FHD" tvg-logo="" group-title="Formula 1",ES: Dazn Formula 1 FHD
+http://tvla.xyz:80/cyovmrru/g556Vx2Lpa/303808
+#EXTINF:-1 tvg-id="" tvg-name="ES: AntenaMotor FHD" tvg-logo="" group-title="España",ES: AntenaMotor FHD
+http://tvla.xyz:80/cyovmrru/g556Vx2Lpa/303809
+#EXTINF:-1 tvg-id="" tvg-name="ES: Antena Motor TV FHD" tvg-logo="" group-title="España",ES: Antena Motor TV FHD
+http://tvla.xyz:80/cyovmrru/g556Vx2Lpa/303810
+#EXTINF:-1 tvg-id="" tvg-name="ES: MotoAdv HD" tvg-logo="" group-title="España",ES: MotoAdv HD
+http://tvla.xyz:80/cyovmrru/g556Vx2Lpa/303811
+#EXTINF:-1 tvg-id="" tvg-name="ES: #Vamos SD" tvg-logo="" group-title="España",ES: #Vamos SD
+http://tvla.xyz:80/cyovmrru/g556Vx2Lpa/303812
+#EXTINF:-1 tvg-id="" tvg-name="ES: #Vamos FHD 2Mb" tvg-logo="" group-title="España",ES: #Vamos FHD 2Mb
+http://tvla.xyz:80/cyovmrru/g556Vx2Lpa/303813
+#EXTINF:-1 tvg-id="" tvg-name="ES: #Vamos FHD" tvg-logo="" group-title="España",ES: #Vamos FHD
+http://tvla.xyz:80/cyovmrru/g556Vx2Lpa/303814
+#EXTINF:-1 tvg-id="" tvg-name="ES: ELLAS #V SD" tvg-logo="" group-title="España",ES: ELLAS #V SD
+http://tvla.xyz:80/cyovmrru/g556Vx2Lpa/303815
+#EXTINF:-1 tvg-id="" tvg-name="ES: ELLAS #V HD 2Mb" tvg-logo="" group-title="España",ES: ELLAS #V HD 2Mb
+http://tvla.xyz:80/cyovmrru/g556Vx2Lpa/303816
+#EXTINF:-1 tvg-id="" tvg-name="ES: ELLAS #V FHD" tvg-logo="" group-title="España",ES: ELLAS #V FHD
+http://tvla.xyz:80/cyovmrru/g556Vx2Lpa/303817
+#EXTINF:-1 tvg-id="" tvg-name="ES: M. Deportes SD" tvg-logo="" group-title="España",ES: M. Deportes SD
+http://tvla.xyz:80/cyovmrru/g556Vx2Lpa/303818
+#EXTINF:-1 tvg-id="" tvg-name="ES: M.Deportes FHD 2Mb" tvg-logo="" group-title="España",ES: M.Deportes FHD 2Mb
+http://tvla.xyz:80/cyovmrru/g556Vx2Lpa/303819
+#EXTINF:-1 tvg-id="" tvg-name="ES: M. Deportes FHD" tvg-logo="" group-title="España",ES: M. Deportes FHD
+http://tvla.xyz:80/cyovmrru/g556Vx2Lpa/303820
+#EXTINF:-1 tvg-id="" tvg-name="ES: M. Deportes 1 SD" tvg-logo="" group-title="España",ES: M. Deportes 1 SD
+http://tvla.xyz:80/cyovmrru/g556Vx2Lpa/303821
+#EXTINF:-1 tvg-id="" tvg-name="ES: M. Deportes 1 FHD" tvg-logo="" group-title="España",ES: M. Deportes 1 FHD
+http://tvla.xyz:80/cyovmrru/g556Vx2Lpa/303822
+#EXTINF:-1 tvg-id="" tvg-name="ES: M. Deportes 2 FHD" tvg-logo="" group-title="España",ES: M. Deportes 2 FHD
+http://tvla.xyz:80/cyovmrru/g556Vx2Lpa/303823
+#EXTINF:-1 tvg-id="" tvg-name="ES: M. Deportes 2 SD" tvg-logo="" group-title="España",ES: M. Deportes 2 SD
+http://tvla.xyz:80/cyovmrru/g556Vx2Lpa/303824
+#EXTINF:-1 tvg-id="" tvg-name="ES: M. Deportes 3 FHD" tvg-logo="" group-title="España",ES: M. Deportes 3 FHD
+http://tvla.xyz:80/cyovmrru/g556Vx2Lpa/303825
+#EXTINF:-1 tvg-id="" tvg-name="ES: M. Deportes 3 SD" tvg-logo="" group-title="España",ES: M. Deportes 3 SD
+http://tvla.xyz:80/cyovmrru/g556Vx2Lpa/303826
+#EXTINF:-1 tvg-id="" tvg-name="ES: M. Deportes 4 FHD" tvg-logo="" group-title="España",ES: M. Deportes 4 FHD
+http://tvla.xyz:80/cyovmrru/g556Vx2Lpa/303827
+#EXTINF:-1 tvg-id="" tvg-name="ES: M. Deportes 4 SD" tvg-logo="" group-title="España",ES: M. Deportes 4 SD
+http://tvla.xyz:80/cyovmrru/g556Vx2Lpa/303828
+#EXTINF:-1 tvg-id="" tvg-name="ES: M. Deportes 5 FHD" tvg-logo="" group-title="España",ES: M. Deportes 5 FHD
+http://tvla.xyz:80/cyovmrru/g556Vx2Lpa/303829
+#EXTINF:-1 tvg-id="" tvg-name="ES: M. Deportes 5 SD" tvg-logo="" group-title="España",ES: M. Deportes 5 SD
+http://tvla.xyz:80/cyovmrru/g556Vx2Lpa/303830
+#EXTINF:-1 tvg-id="" tvg-name="ES: M. Deportes 6 SD" tvg-logo="" group-title="España",ES: M. Deportes 6 SD
+http://tvla.xyz:80/cyovmrru/g556Vx2Lpa/303831
+#EXTINF:-1 tvg-id="" tvg-name="ES: M. Deportes 7 SD" tvg-logo="" group-title="España",ES: M. Deportes 7 SD
+http://tvla.xyz:80/cyovmrru/g556Vx2Lpa/303832
+#EXTINF:-1 tvg-id="" tvg-name="ES: Eurosport 1 SD" tvg-logo="" group-title="España",ES: Eurosport 1 SD
+http://tvla.xyz:80/cyovmrru/g556Vx2Lpa/303833
+#EXTINF:-1 tvg-id="" tvg-name="ES: Eurosport 1 FHD 2Mb" tvg-logo="" group-title="España",ES: Eurosport 1 FHD 2Mb
+http://tvla.xyz:80/cyovmrru/g556Vx2Lpa/303834
+#EXTINF:-1 tvg-id="" tvg-name="ES: Eurosport 1 FHD" tvg-logo="" group-title="España",ES: Eurosport 1 FHD
+http://tvla.xyz:80/cyovmrru/g556Vx2Lpa/303835
+#EXTINF:-1 tvg-id="" tvg-name="ES: Eurosport 2 SD" tvg-logo="" group-title="España",ES: Eurosport 2 SD
+http://tvla.xyz:80/cyovmrru/g556Vx2Lpa/303836
+#EXTINF:-1 tvg-id="" tvg-name="ES: EuroSport 2 FHD" tvg-logo="" group-title="España",ES: EuroSport 2 FHD
+http://tvla.xyz:80/cyovmrru/g556Vx2Lpa/303837
+#EXTINF:-1 tvg-id="" tvg-name="ES: M. Golf SD" tvg-logo="" group-title="España",ES: M. Golf SD
+http://tvla.xyz:80/cyovmrru/g556Vx2Lpa/303838
+#EXTINF:-1 tvg-id="" tvg-name="ES: M. Golf FHD" tvg-logo="" group-title="España",ES: M. Golf FHD
+http://tvla.xyz:80/cyovmrru/g556Vx2Lpa/303839
+#EXTINF:-1 tvg-id="" tvg-name="ES: Teledeporte SD" tvg-logo="" group-title="España",ES: Teledeporte SD
+http://tvla.xyz:80/cyovmrru/g556Vx2Lpa/303840
+#EXTINF:-1 tvg-id="" tvg-name="ES: Teledeporte FHD" tvg-logo="" group-title="España",ES: Teledeporte FHD
+http://tvla.xyz:80/cyovmrru/g556Vx2Lpa/303841
+#EXTINF:-1 tvg-id="" tvg-name="ES: Fight Time HD" tvg-logo="" group-title="España",ES: Fight Time HD
+http://tvla.xyz:80/cyovmrru/g556Vx2Lpa/303842
+#EXTINF:-1 tvg-id="" tvg-name="ES: WORLD PADEL TOUR" tvg-logo="" group-title="España",ES: WORLD PADEL TOUR
+http://tvla.xyz:80/cyovmrru/g556Vx2Lpa/303843
+#EXTINF:-1 tvg-id="" tvg-name="ES: Tennis Channel HD" tvg-logo="" group-title="España",ES: Tennis Channel HD
+http://tvla.xyz:80/cyovmrru/g556Vx2Lpa/303844
+#EXTINF:-1 tvg-id="" tvg-name="ES: Nhl Network HD" tvg-logo="" group-title="España",ES: Nhl Network HD
+http://tvla.xyz:80/cyovmrru/g556Vx2Lpa/303845
+#EXTINF:-1 tvg-id="" tvg-name="ES: Nfl Network HD" tvg-logo="" group-title="España",ES: Nfl Network HD
+http://tvla.xyz:80/cyovmrru/g556Vx2Lpa/303846
+#EXTINF:-1 tvg-id="" tvg-name="ES: Mlb Network HD" tvg-logo="" group-title="España",ES: Mlb Network HD
+http://tvla.xyz:80/cyovmrru/g556Vx2Lpa/303847
+#EXTINF:-1 tvg-id="" tvg-name="ES: Red bull TV FHD" tvg-logo="" group-title="España",ES: Red bull TV FHD
+http://tvla.xyz:80/cyovmrru/g556Vx2Lpa/303848
+#EXTINF:-1 tvg-id="" tvg-name="ES: Wwe Network HD" tvg-logo="" group-title="España",ES: Wwe Network HD
+http://tvla.xyz:80/cyovmrru/g556Vx2Lpa/303849
+#EXTINF:-1 tvg-id="" tvg-name="ES: Ufc Fight Pass FHD" tvg-logo="" group-title="España",ES: Ufc Fight Pass FHD
+http://tvla.xyz:80/cyovmrru/g556Vx2Lpa/303850
+#EXTINF:-1 tvg-id="" tvg-name="ES: NBA Network HD" tvg-logo="" group-title="España",ES: NBA Network HD
+http://tvla.xyz:80/cyovmrru/g556Vx2Lpa/303851
+#EXTINF:-1 tvg-id="" tvg-name="ES: Fubo Sport Network HD" tvg-logo="" group-title="España",ES: Fubo Sport Network HD
+http://tvla.xyz:80/cyovmrru/g556Vx2Lpa/303852
+#EXTINF:-1 tvg-id="" tvg-name="ES: NFL DraftKings HD" tvg-logo="" group-title="España",ES: NFL DraftKings HD
+http://tvla.xyz:80/cyovmrru/g556Vx2Lpa/303853
+#EXTINF:-1 tvg-id="" tvg-name="ES: NBC Sport Network FHD" tvg-logo="" group-title="España",ES: NBC Sport Network FHD
+http://tvla.xyz:80/cyovmrru/g556Vx2Lpa/303854
+#EXTINF:-1 tvg-id="" tvg-name="ES: Fox Soccer+ Network HD" tvg-logo="" group-title="España",ES: Fox Soccer+ Network HD
+http://tvla.xyz:80/cyovmrru/g556Vx2Lpa/303855
+#EXTINF:-1 tvg-id="" tvg-name="ES: NFL RedZone HD" tvg-logo="" group-title="España",ES: NFL RedZone HD
+http://tvla.xyz:80/cyovmrru/g556Vx2Lpa/303856
+#EXTINF:-1 tvg-id="" tvg-name="ES: Fite Tv Boxing HD" tvg-logo="" group-title="España",ES: Fite Tv Boxing HD
+http://tvla.xyz:80/cyovmrru/g556Vx2Lpa/303857
+#EXTINF:-1 tvg-id="" tvg-name="ES: Fight Box FHD" tvg-logo="" group-title="España",ES: Fight Box FHD
+http://tvla.xyz:80/cyovmrru/g556Vx2Lpa/303858
+#EXTINF:-1 tvg-id="" tvg-name="ES: M. Estrenos FHD" tvg-logo="" group-title="España",ES: M. Estrenos FHD
+http://tvla.xyz:80/cyovmrru/g556Vx2Lpa/303859
+#EXTINF:-1 tvg-id="" tvg-name="ES: M.Estrenos HD 2Mb" tvg-logo="" group-title="España",ES: M.Estrenos HD 2Mb
+http://tvla.xyz:80/cyovmrru/g556Vx2Lpa/303860
+#EXTINF:-1 tvg-id="" tvg-name="ES: M. Estrenos FHD" tvg-logo="" group-title="España",ES: M. Estrenos FHD
+http://tvla.xyz:80/cyovmrru/g556Vx2Lpa/303861
+#EXTINF:-1 tvg-id="" tvg-name="ES: M.Estrenos 2 HD" tvg-logo="" group-title="España",ES: M.Estrenos 2 HD
+http://tvla.xyz:80/cyovmrru/g556Vx2Lpa/303862
+#EXTINF:-1 tvg-id="" tvg-name="ES: M.Estrenos 2 HD 2Mb" tvg-logo="" group-title="España",ES: M.Estrenos 2 HD 2Mb
+http://tvla.xyz:80/cyovmrru/g556Vx2Lpa/303863
+#EXTINF:-1 tvg-id="" tvg-name="ES: M.Estrenos 2 FHD" tvg-logo="" group-title="España",ES: M.Estrenos 2 FHD
+http://tvla.xyz:80/cyovmrru/g556Vx2Lpa/303864
+#EXTINF:-1 tvg-id="" tvg-name="ES: M. Accion FHD" tvg-logo="" group-title="España",ES: M. Accion FHD
+http://tvla.xyz:80/cyovmrru/g556Vx2Lpa/303865
+#EXTINF:-1 tvg-id="" tvg-name="ES: M.Accion HD 2Mb" tvg-logo="" group-title="España",ES: M.Accion HD 2Mb
+http://tvla.xyz:80/cyovmrru/g556Vx2Lpa/303866
+#EXTINF:-1 tvg-id="" tvg-name="ES: M. Accion FHD" tvg-logo="" group-title="España",ES: M. Accion FHD
+http://tvla.xyz:80/cyovmrru/g556Vx2Lpa/303867
+#EXTINF:-1 tvg-id="" tvg-name="ES: M. Comedia HD" tvg-logo="" group-title="España",ES: M. Comedia HD
+http://tvla.xyz:80/cyovmrru/g556Vx2Lpa/303868
+#EXTINF:-1 tvg-id="" tvg-name="ES: M.Comedia HD 2Mb" tvg-logo="" group-title="España",ES: M.Comedia HD 2Mb
+http://tvla.xyz:80/cyovmrru/g556Vx2Lpa/303869
+#EXTINF:-1 tvg-id="" tvg-name="ES: M. Comedia FHD" tvg-logo="" group-title="España",ES: M. Comedia FHD
+http://tvla.xyz:80/cyovmrru/g556Vx2Lpa/303870
+#EXTINF:-1 tvg-id="" tvg-name="ES: M. Drama FHD" tvg-logo="" group-title="España",ES: M. Drama FHD
+http://tvla.xyz:80/cyovmrru/g556Vx2Lpa/303871
+#EXTINF:-1 tvg-id="" tvg-name="ES: M.Drama HD 2Mb" tvg-logo="" group-title="España",ES: M.Drama HD 2Mb
+http://tvla.xyz:80/cyovmrru/g556Vx2Lpa/303872
+#EXTINF:-1 tvg-id="" tvg-name="ES: M. Drama FHD" tvg-logo="" group-title="España",ES: M. Drama FHD
+http://tvla.xyz:80/cyovmrru/g556Vx2Lpa/303873
+#EXTINF:-1 tvg-id="" tvg-name="ES: M.Clasicos SD" tvg-logo="" group-title="España",ES: M.Clasicos SD
+http://tvla.xyz:80/cyovmrru/g556Vx2Lpa/303874
+#EXTINF:-1 tvg-id="" tvg-name="ES: M.Clasicos HD 2mb" tvg-logo="" group-title="España",ES: M.Clasicos HD 2mb
+http://tvla.xyz:80/cyovmrru/g556Vx2Lpa/303875
+#EXTINF:-1 tvg-id="" tvg-name="ES: M.Clasicos FHD" tvg-logo="" group-title="España",ES: M.Clasicos FHD
+http://tvla.xyz:80/cyovmrru/g556Vx2Lpa/303876
+#EXTINF:-1 tvg-id="" tvg-name="ES: M. Cine Ñ SD" tvg-logo="" group-title="España",ES: M. Cine Ñ SD
+http://tvla.xyz:80/cyovmrru/g556Vx2Lpa/303877
+#EXTINF:-1 tvg-id="" tvg-name="ES: M.Cine Ñ HD" tvg-logo="" group-title="España",ES: M.Cine Ñ HD
+http://tvla.xyz:80/cyovmrru/g556Vx2Lpa/303878
+#EXTINF:-1 tvg-id="" tvg-name="ES: M.Pop UP (Temporales) FHD" tvg-logo="" group-title="España",ES: M.Pop UP (Temporales) FHD
+http://tvla.xyz:80/cyovmrru/g556Vx2Lpa/303879
+#EXTINF:-1 tvg-id="" tvg-name="ES: My Time Movie Network HD" tvg-logo="" group-title="España",ES: My Time Movie Network HD
+http://tvla.xyz:80/cyovmrru/g556Vx2Lpa/303880
+#EXTINF:-1 tvg-id="" tvg-name="ES: Rakuten Tv TOP 1 HD" tvg-logo="" group-title="España",ES: Rakuten Tv TOP 1 HD
+http://tvla.xyz:80/cyovmrru/g556Vx2Lpa/303881
+#EXTINF:-1 tvg-id="" tvg-name="ES: Rakuten Tv TOP 2 HD" tvg-logo="" group-title="España",ES: Rakuten Tv TOP 2 HD
+http://tvla.xyz:80/cyovmrru/g556Vx2Lpa/303882
+#EXTINF:-1 tvg-id="" tvg-name="ES: Rakuten Tv Family HD" tvg-logo="" group-title="España",ES: Rakuten Tv Family HD
+http://tvla.xyz:80/cyovmrru/g556Vx2Lpa/303883
+#EXTINF:-1 tvg-id="" tvg-name="ES: Runtime TV HD" tvg-logo="" group-title="España",ES: Runtime TV HD
+http://tvla.xyz:80/cyovmrru/g556Vx2Lpa/303884
+#EXTINF:-1 tvg-id="" tvg-name="ES: Hollywood HD" tvg-logo="" group-title="España",ES: Hollywood HD
+http://tvla.xyz:80/cyovmrru/g556Vx2Lpa/303885
+#EXTINF:-1 tvg-id="" tvg-name="ES: Hollywood HD 2Mb" tvg-logo="" group-title="España",ES: Hollywood HD 2Mb
+http://tvla.xyz:80/cyovmrru/g556Vx2Lpa/303886
+#EXTINF:-1 tvg-id="" tvg-name="ES: Hollywood FHD" tvg-logo="" group-title="España",ES: Hollywood FHD
+http://tvla.xyz:80/cyovmrru/g556Vx2Lpa/303887
+#EXTINF:-1 tvg-id="" tvg-name="ES: TCM SD" tvg-logo="" group-title="España",ES: TCM SD
+http://tvla.xyz:80/cyovmrru/g556Vx2Lpa/303888
+#EXTINF:-1 tvg-id="" tvg-name="ES: TCM HD 2Mb" tvg-logo="" group-title="España",ES: TCM HD 2Mb
+http://tvla.xyz:80/cyovmrru/g556Vx2Lpa/303889
+#EXTINF:-1 tvg-id="" tvg-name="ES: TCM FHD" tvg-logo="" group-title="España",ES: TCM FHD
+http://tvla.xyz:80/cyovmrru/g556Vx2Lpa/303890
+#EXTINF:-1 tvg-id="" tvg-name="ES: Somos FHD" tvg-logo="" group-title="España",ES: Somos FHD
+http://tvla.xyz:80/cyovmrru/g556Vx2Lpa/303891
+#EXTINF:-1 tvg-id="" tvg-name="ES: Dark SD" tvg-logo="" group-title="España",ES: Dark SD
+http://tvla.xyz:80/cyovmrru/g556Vx2Lpa/303892
+#EXTINF:-1 tvg-id="" tvg-name="ES: Dark FHD" tvg-logo="" group-title="España",ES: Dark FHD
+http://tvla.xyz:80/cyovmrru/g556Vx2Lpa/303893
+#EXTINF:-1 tvg-id="" tvg-name="ES: Xtrm FHD " tvg-logo="" group-title="España",ES: Xtrm FHD 
+http://tvla.xyz:80/cyovmrru/g556Vx2Lpa/303894
+#EXTINF:-1 tvg-id="" tvg-name="ES: Paramount SD" tvg-logo="" group-title="España",ES: Paramount SD
+http://tvla.xyz:80/cyovmrru/g556Vx2Lpa/303895
+#EXTINF:-1 tvg-id="" tvg-name="ES: Sundance TV SD" tvg-logo="" group-title="España",ES: Sundance TV SD
+http://tvla.xyz:80/cyovmrru/g556Vx2Lpa/303896
+#EXTINF:-1 tvg-id="" tvg-name="ES: Sundance FHD" tvg-logo="" group-title="España",ES: Sundance FHD
+http://tvla.xyz:80/cyovmrru/g556Vx2Lpa/303897
+#EXTINF:-1 tvg-id="" tvg-name="ES: M. Series 2 FHD" tvg-logo="" group-title="España",ES: M. Series 2 FHD
+http://tvla.xyz:80/cyovmrru/g556Vx2Lpa/303898
+#EXTINF:-1 tvg-id="" tvg-name="ES: M.Series 2 HD 2Mb" tvg-logo="" group-title="España",ES: M.Series 2 HD 2Mb
+http://tvla.xyz:80/cyovmrru/g556Vx2Lpa/303899
+#EXTINF:-1 tvg-id="" tvg-name="ES: M. Series 2 FHD" tvg-logo="" group-title="España",ES: M. Series 2 FHD
+http://tvla.xyz:80/cyovmrru/g556Vx2Lpa/303900
+#EXTINF:-1 tvg-id="" tvg-name="ES: M. Series SD" tvg-logo="" group-title="España",ES: M. Series SD
+http://tvla.xyz:80/cyovmrru/g556Vx2Lpa/303901
+#EXTINF:-1 tvg-id="" tvg-name="ES:M.Series HD 2Mb" tvg-logo="" group-title="España",ES:M.Series HD 2Mb
+http://tvla.xyz:80/cyovmrru/g556Vx2Lpa/303902
+#EXTINF:-1 tvg-id="" tvg-name="ES: M. Series FHD" tvg-logo="" group-title="España",ES: M. Series FHD
+http://tvla.xyz:80/cyovmrru/g556Vx2Lpa/303903
+#EXTINF:-1 tvg-id="" tvg-name="ES: Fox FHD" tvg-logo="" group-title="España",ES: Fox FHD
+http://tvla.xyz:80/cyovmrru/g556Vx2Lpa/303904
+#EXTINF:-1 tvg-id="" tvg-name="ES: Fox HD 2Mb" tvg-logo="" group-title="España",ES: Fox HD 2Mb
+http://tvla.xyz:80/cyovmrru/g556Vx2Lpa/303905
+#EXTINF:-1 tvg-id="" tvg-name="ES: Fox FHD" tvg-logo="" group-title="España",ES: Fox FHD
+http://tvla.xyz:80/cyovmrru/g556Vx2Lpa/303906
+#EXTINF:-1 tvg-id="" tvg-name="ES: Axn FHD" tvg-logo="" group-title="España",ES: Axn FHD
+http://tvla.xyz:80/cyovmrru/g556Vx2Lpa/303907
+#EXTINF:-1 tvg-id="" tvg-name="ES: Axn HD 2Mb" tvg-logo="" group-title="España",ES: Axn HD 2Mb
+http://tvla.xyz:80/cyovmrru/g556Vx2Lpa/303908
+#EXTINF:-1 tvg-id="" tvg-name="ES: Axn FHD" tvg-logo="" group-title="España",ES: Axn FHD
+http://tvla.xyz:80/cyovmrru/g556Vx2Lpa/303909
+#EXTINF:-1 tvg-id="" tvg-name="ES: Axn White SD" tvg-logo="" group-title="España",ES: Axn White SD
+http://tvla.xyz:80/cyovmrru/g556Vx2Lpa/303910
+#EXTINF:-1 tvg-id="" tvg-name="ES: Axn White HD 2Mb" tvg-logo="" group-title="España",ES: Axn White HD 2Mb
+http://tvla.xyz:80/cyovmrru/g556Vx2Lpa/303911
+#EXTINF:-1 tvg-id="" tvg-name="ES: Axn White FHD" tvg-logo="" group-title="España",ES: Axn White FHD
+http://tvla.xyz:80/cyovmrru/g556Vx2Lpa/303912
+#EXTINF:-1 tvg-id="" tvg-name="ES: Amc HD" tvg-logo="" group-title="España",ES: Amc HD
+http://tvla.xyz:80/cyovmrru/g556Vx2Lpa/303913
+#EXTINF:-1 tvg-id="" tvg-name="ES: Amc HD 2Mb" tvg-logo="" group-title="España",ES: Amc HD 2Mb
+http://tvla.xyz:80/cyovmrru/g556Vx2Lpa/303914
+#EXTINF:-1 tvg-id="" tvg-name="ES: Amc HD" tvg-logo="" group-title="España",ES: Amc HD
+http://tvla.xyz:80/cyovmrru/g556Vx2Lpa/303915
+#EXTINF:-1 tvg-id="" tvg-name="ES: Calle 13 SD" tvg-logo="" group-title="España",ES: Calle 13 SD
+http://tvla.xyz:80/cyovmrru/g556Vx2Lpa/303916
+#EXTINF:-1 tvg-id="" tvg-name="ES: Calle 13 HD 2Mb" tvg-logo="" group-title="España",ES: Calle 13 HD 2Mb
+http://tvla.xyz:80/cyovmrru/g556Vx2Lpa/303917
+#EXTINF:-1 tvg-id="" tvg-name="ES: Calle 13 FHD" tvg-logo="" group-title="España",ES: Calle 13 FHD
+http://tvla.xyz:80/cyovmrru/g556Vx2Lpa/303918
+#EXTINF:-1 tvg-id="" tvg-name="ES: TNT SD" tvg-logo="" group-title="España",ES: TNT SD
+http://tvla.xyz:80/cyovmrru/g556Vx2Lpa/303919
+#EXTINF:-1 tvg-id="" tvg-name="ES: TNT HD 2Mb" tvg-logo="" group-title="España",ES: TNT HD 2Mb
+http://tvla.xyz:80/cyovmrru/g556Vx2Lpa/303920
+#EXTINF:-1 tvg-id="" tvg-name="ES: TNT FHD" tvg-logo="" group-title="España",ES: TNT FHD
+http://tvla.xyz:80/cyovmrru/g556Vx2Lpa/303921
+#EXTINF:-1 tvg-id="" tvg-name="ES: Comedy Central SD" tvg-logo="" group-title="España",ES: Comedy Central SD
+http://tvla.xyz:80/cyovmrru/g556Vx2Lpa/303922
+#EXTINF:-1 tvg-id="" tvg-name="ES: Comedy Central HD 2Mb" tvg-logo="" group-title="España",ES: Comedy Central HD 2Mb
+http://tvla.xyz:80/cyovmrru/g556Vx2Lpa/303923
+#EXTINF:-1 tvg-id="" tvg-name="ES: Comedy Central FHD" tvg-logo="" group-title="España",ES: Comedy Central FHD
+http://tvla.xyz:80/cyovmrru/g556Vx2Lpa/303924
+#EXTINF:-1 tvg-id="" tvg-name="ES: Syfy SD" tvg-logo="" group-title="España",ES: Syfy SD
+http://tvla.xyz:80/cyovmrru/g556Vx2Lpa/303925
+#EXTINF:-1 tvg-id="" tvg-name="ES: Syfy HD 2Mb" tvg-logo="" group-title="España",ES: Syfy HD 2Mb
+http://tvla.xyz:80/cyovmrru/g556Vx2Lpa/303926
+#EXTINF:-1 tvg-id="" tvg-name="ES: Syfy FHD" tvg-logo="" group-title="España",ES: Syfy FHD
+http://tvla.xyz:80/cyovmrru/g556Vx2Lpa/303927
+#EXTINF:-1 tvg-id="" tvg-name="ES: DreamWorks HD 2Mb" tvg-logo="" group-title="España",ES: DreamWorks HD 2Mb
+http://tvla.xyz:80/cyovmrru/g556Vx2Lpa/303928
+#EXTINF:-1 tvg-id="" tvg-name="ES: M DreamWorks FHD" tvg-logo="" group-title="España",ES: M DreamWorks FHD
+http://tvla.xyz:80/cyovmrru/g556Vx2Lpa/303929
+#EXTINF:-1 tvg-id="" tvg-name="ES: Nickelodeon HD" tvg-logo="" group-title="España",ES: Nickelodeon HD
+http://tvla.xyz:80/cyovmrru/g556Vx2Lpa/303930
+#EXTINF:-1 tvg-id="" tvg-name="ES: Nickelodeon HD 2Mb" tvg-logo="" group-title="España",ES: Nickelodeon HD 2Mb
+http://tvla.xyz:80/cyovmrru/g556Vx2Lpa/303931
+#EXTINF:-1 tvg-id="" tvg-name="ES: Nickelodeon FHD" tvg-logo="" group-title="España",ES: Nickelodeon FHD
+http://tvla.xyz:80/cyovmrru/g556Vx2Lpa/303932
+#EXTINF:-1 tvg-id="" tvg-name="ES: Nick Jr SD" tvg-logo="" group-title="España",ES: Nick Jr SD
+http://tvla.xyz:80/cyovmrru/g556Vx2Lpa/303933
+#EXTINF:-1 tvg-id="" tvg-name="ES: Disney JR SD" tvg-logo="" group-title="España",ES: Disney JR SD
+http://tvla.xyz:80/cyovmrru/g556Vx2Lpa/303934
+#EXTINF:-1 tvg-id="" tvg-name="ES: Disney Jr HD" tvg-logo="" group-title="España",ES: Disney Jr HD
+http://tvla.xyz:80/cyovmrru/g556Vx2Lpa/303935
+#EXTINF:-1 tvg-id="" tvg-name="ES: Disney CH. FHD" tvg-logo="" group-title="España",ES: Disney CH. FHD
+http://tvla.xyz:80/cyovmrru/g556Vx2Lpa/303936
+#EXTINF:-1 tvg-id="" tvg-name="ES: Disney CH FHD" tvg-logo="" group-title="España",ES: Disney CH FHD
+http://tvla.xyz:80/cyovmrru/g556Vx2Lpa/303937
+#EXTINF:-1 tvg-id="" tvg-name="ES: Clan Tve SD" tvg-logo="" group-title="España",ES: Clan Tve SD
+http://tvla.xyz:80/cyovmrru/g556Vx2Lpa/303938
+#EXTINF:-1 tvg-id="" tvg-name="ES: Clan Tve FHD" tvg-logo="" group-title="España",ES: Clan Tve FHD
+http://tvla.xyz:80/cyovmrru/g556Vx2Lpa/303939
+#EXTINF:-1 tvg-id="" tvg-name="ES: Canal Panda SD" tvg-logo="" group-title="España",ES: Canal Panda SD
+http://tvla.xyz:80/cyovmrru/g556Vx2Lpa/303940
+#EXTINF:-1 tvg-id="" tvg-name="ES: Canal Panda HD" tvg-logo="" group-title="España",ES: Canal Panda HD
+http://tvla.xyz:80/cyovmrru/g556Vx2Lpa/303941
+#EXTINF:-1 tvg-id="" tvg-name="ES: Boing SD" tvg-logo="" group-title="España",ES: Boing SD
+http://tvla.xyz:80/cyovmrru/g556Vx2Lpa/303942
+#EXTINF:-1 tvg-id="" tvg-name="ES: Boing HD" tvg-logo="" group-title="España",ES: Boing HD
+http://tvla.xyz:80/cyovmrru/g556Vx2Lpa/303943
+#EXTINF:-1 tvg-id="" tvg-name="ES: Baby TV SD" tvg-logo="" group-title="España",ES: Baby TV SD
+http://tvla.xyz:80/cyovmrru/g556Vx2Lpa/303944
+#EXTINF:-1 tvg-id="" tvg-name="ES: M.La Resistencia SD" tvg-logo="" group-title="España",ES: M.La Resistencia SD
+http://tvla.xyz:80/cyovmrru/g556Vx2Lpa/303945
+#EXTINF:-1 tvg-id="" tvg-name="ES: M.La Resistencia HD" tvg-logo="" group-title="España",ES: M.La Resistencia HD
+http://tvla.xyz:80/cyovmrru/g556Vx2Lpa/303946
+#EXTINF:-1 tvg-id="" tvg-name="ES: #0 SD" tvg-logo="" group-title="España",ES: #0 SD
+http://tvla.xyz:80/cyovmrru/g556Vx2Lpa/303947
+#EXTINF:-1 tvg-id="" tvg-name="ES: #0 HD 2Mb" tvg-logo="" group-title="España",ES: #0 HD 2Mb
+http://tvla.xyz:80/cyovmrru/g556Vx2Lpa/303948
+#EXTINF:-1 tvg-id="" tvg-name="ES: #0 FHD" tvg-logo="" group-title="España",ES: #0 FHD
+http://tvla.xyz:80/cyovmrru/g556Vx2Lpa/303949
+#EXTINF:-1 tvg-id="" tvg-name="ES: Canal Decasa SD" tvg-logo="" group-title="España",ES: Canal Decasa SD
+http://tvla.xyz:80/cyovmrru/g556Vx2Lpa/303950
+#EXTINF:-1 tvg-id="" tvg-name="ES: Decasa FHD" tvg-logo="" group-title="España",ES: Decasa FHD
+http://tvla.xyz:80/cyovmrru/g556Vx2Lpa/303951
+#EXTINF:-1 tvg-id="" tvg-name="ES: Canal Cocina HD" tvg-logo="" group-title="España",ES: Canal Cocina HD
+http://tvla.xyz:80/cyovmrru/g556Vx2Lpa/303952
+#EXTINF:-1 tvg-id="" tvg-name="ES: Canal Cocina HD" tvg-logo="" group-title="España",ES: Canal Cocina HD
+http://tvla.xyz:80/cyovmrru/g556Vx2Lpa/303953
+#EXTINF:-1 tvg-id="" tvg-name="ES: Amc Break FHD" tvg-logo="" group-title="España",ES: Amc Break FHD
+http://tvla.xyz:80/cyovmrru/g556Vx2Lpa/303954
+#EXTINF:-1 tvg-id="" tvg-name="ES: Blaze SD" tvg-logo="" group-title="España",ES: Blaze SD
+http://tvla.xyz:80/cyovmrru/g556Vx2Lpa/303955
+#EXTINF:-1 tvg-id="" tvg-name="ES: Blaze HD" tvg-logo="" group-title="España",ES: Blaze HD
+http://tvla.xyz:80/cyovmrru/g556Vx2Lpa/303956
+#EXTINF:-1 tvg-id="" tvg-name="ES: MtMad HD" tvg-logo="" group-title="España",ES: MtMad HD
+http://tvla.xyz:80/cyovmrru/g556Vx2Lpa/303957
+#EXTINF:-1 tvg-id="" tvg-name="ES: Caza y Pesca SD" tvg-logo="" group-title="España",ES: Caza y Pesca SD
+http://tvla.xyz:80/cyovmrru/g556Vx2Lpa/303958
+#EXTINF:-1 tvg-id="" tvg-name="ES: Caza Y Pesca HD 2Mb" tvg-logo="" group-title="España",ES: Caza Y Pesca HD 2Mb
+http://tvla.xyz:80/cyovmrru/g556Vx2Lpa/303959
+#EXTINF:-1 tvg-id="" tvg-name="ES: Caza y Pesca FHD" tvg-logo="" group-title="España",ES: Caza y Pesca FHD
+http://tvla.xyz:80/cyovmrru/g556Vx2Lpa/303960
+#EXTINF:-1 tvg-id="" tvg-name="ES: Iberalia TV SD" tvg-logo="" group-title="España",ES: Iberalia TV SD
+http://tvla.xyz:80/cyovmrru/g556Vx2Lpa/303961
+#EXTINF:-1 tvg-id="" tvg-name="ES: Iberalia Original FHD" tvg-logo="" group-title="España",ES: Iberalia Original FHD
+http://tvla.xyz:80/cyovmrru/g556Vx2Lpa/303962
+#EXTINF:-1 tvg-id="" tvg-name="ES: IBERALIA 100% CAZA FHD" tvg-logo="" group-title="España",ES: IBERALIA 100% CAZA FHD
+http://tvla.xyz:80/cyovmrru/g556Vx2Lpa/303963
+#EXTINF:-1 tvg-id="" tvg-name="ES: IBERALIA 100% PESCA FHD" tvg-logo="" group-title="España",ES: IBERALIA 100% PESCA FHD
+http://tvla.xyz:80/cyovmrru/g556Vx2Lpa/303964
+#EXTINF:-1 tvg-id="" tvg-name="ES: CazaVision+ FHD" tvg-logo="" group-title="España",ES: CazaVision+ FHD
+http://tvla.xyz:80/cyovmrru/g556Vx2Lpa/303965
+#EXTINF:-1 tvg-id="" tvg-name="ES: Torole HD" tvg-logo="" group-title="España",ES: Torole HD
+http://tvla.xyz:80/cyovmrru/g556Vx2Lpa/303966
+#EXTINF:-1 tvg-id="" tvg-name="ES: Torole FHD" tvg-logo="" group-title="España",ES: Torole FHD
+http://tvla.xyz:80/cyovmrru/g556Vx2Lpa/303967
+#EXTINF:-1 tvg-id="" tvg-name="ES: Toros HD" tvg-logo="" group-title="España",ES: Toros HD
+http://tvla.xyz:80/cyovmrru/g556Vx2Lpa/303968
+#EXTINF:-1 tvg-id="" tvg-name="ES: Toros HD 2Mb" tvg-logo="" group-title="España",ES: Toros HD 2Mb
+http://tvla.xyz:80/cyovmrru/g556Vx2Lpa/303969
+#EXTINF:-1 tvg-id="" tvg-name="ES: Toros FHD" tvg-logo="" group-title="España",ES: Toros FHD
+http://tvla.xyz:80/cyovmrru/g556Vx2Lpa/303970
+#EXTINF:-1 tvg-id="" tvg-name="ES: Cosmo SD" tvg-logo="" group-title="España",ES: Cosmo SD
+http://tvla.xyz:80/cyovmrru/g556Vx2Lpa/303971
+#EXTINF:-1 tvg-id="" tvg-name="ES: Cosmo FHD" tvg-logo="" group-title="España",ES: Cosmo FHD
+http://tvla.xyz:80/cyovmrru/g556Vx2Lpa/303972
+#EXTINF:-1 tvg-id="" tvg-name="ES: Crimen+Investigacion SD" tvg-logo="" group-title="España",ES: Crimen+Investigacion SD
+http://tvla.xyz:80/cyovmrru/g556Vx2Lpa/303973
+#EXTINF:-1 tvg-id="" tvg-name="ES: Crimen + Investigacion FHD" tvg-logo="" group-title="España",ES: Crimen + Investigacion FHD
+http://tvla.xyz:80/cyovmrru/g556Vx2Lpa/303974
+#EXTINF:-1 tvg-id="" tvg-name="ES: Dviaje FHD" tvg-logo="" group-title="España",ES: Dviaje FHD
+http://tvla.xyz:80/cyovmrru/g556Vx2Lpa/303975
+#EXTINF:-1 tvg-id="" tvg-name="ES: Escapa TV FHD" tvg-logo="" group-title="España",ES: Escapa TV FHD
+http://tvla.xyz:80/cyovmrru/g556Vx2Lpa/303976
+#EXTINF:-1 tvg-id="" tvg-name="ES: Surf Channel FHD" tvg-logo="" group-title="España",ES: Surf Channel FHD
+http://tvla.xyz:80/cyovmrru/g556Vx2Lpa/303977
+#EXTINF:-1 tvg-id="" tvg-name="ES: Nautical Channel HD" tvg-logo="" group-title="España",ES: Nautical Channel HD
+http://tvla.xyz:80/cyovmrru/g556Vx2Lpa/303978
+#EXTINF:-1 tvg-id="" tvg-name="ES: Horse TV HD" tvg-logo="" group-title="España",ES: Horse TV HD
+http://tvla.xyz:80/cyovmrru/g556Vx2Lpa/303979
+#EXTINF:-1 tvg-id="" tvg-name="ES: REKT TV FHD" tvg-logo="" group-title="España",ES: REKT TV FHD
+http://tvla.xyz:80/cyovmrru/g556Vx2Lpa/303980
+#EXTINF:-1 tvg-id="" tvg-name="ES: DBIKE HD" tvg-logo="" group-title="España",ES: DBIKE HD
+http://tvla.xyz:80/cyovmrru/g556Vx2Lpa/303981
+#EXTINF:-1 tvg-id="" tvg-name="ES: U-BEAT FHD" tvg-logo="" group-title="España",ES: U-BEAT FHD
+http://tvla.xyz:80/cyovmrru/g556Vx2Lpa/303982
+#EXTINF:-1 tvg-id="" tvg-name="ES: Nat Geographic SD" tvg-logo="" group-title="España",ES: Nat Geographic SD
+http://tvla.xyz:80/cyovmrru/g556Vx2Lpa/303983
+#EXTINF:-1 tvg-id="" tvg-name="ES: Nat Geo HD 2Mb" tvg-logo="" group-title="España",ES: Nat Geo HD 2Mb
+http://tvla.xyz:80/cyovmrru/g556Vx2Lpa/303984
+#EXTINF:-1 tvg-id="" tvg-name="ES: Nat Geographic FHD" tvg-logo="" group-title="España",ES: Nat Geographic FHD
+http://tvla.xyz:80/cyovmrru/g556Vx2Lpa/303985
+#EXTINF:-1 tvg-id="" tvg-name="ES: Nat Geo Wild FHD" tvg-logo="" group-title="España",ES: Nat Geo Wild FHD
+http://tvla.xyz:80/cyovmrru/g556Vx2Lpa/303986
+#EXTINF:-1 tvg-id="" tvg-name="ES: Nat Geo Wild HD 2Mb" tvg-logo="" group-title="España",ES: Nat Geo Wild HD 2Mb
+http://tvla.xyz:80/cyovmrru/g556Vx2Lpa/303987
+#EXTINF:-1 tvg-id="" tvg-name="ES: Nat Geo Wild FHD" tvg-logo="" group-title="España",ES: Nat Geo Wild FHD
+http://tvla.xyz:80/cyovmrru/g556Vx2Lpa/303988
+#EXTINF:-1 tvg-id="" tvg-name="ES: Mascotas TV FHD" tvg-logo="" group-title="España",ES: Mascotas TV FHD
+http://tvla.xyz:80/cyovmrru/g556Vx2Lpa/303989
+#EXTINF:-1 tvg-id="" tvg-name="ES: Historia SD" tvg-logo="" group-title="España",ES: Historia SD
+http://tvla.xyz:80/cyovmrru/g556Vx2Lpa/303990
+#EXTINF:-1 tvg-id="" tvg-name="ES: Historia FHD" tvg-logo="" group-title="España",ES: Historia FHD
+http://tvla.xyz:80/cyovmrru/g556Vx2Lpa/303991
+#EXTINF:-1 tvg-id="" tvg-name="ES: Discovery Chanel SD" tvg-logo="" group-title="España",ES: Discovery Chanel SD
+http://tvla.xyz:80/cyovmrru/g556Vx2Lpa/303992
+#EXTINF:-1 tvg-id="" tvg-name="ES: Discovery Chanel FHD" tvg-logo="" group-title="España",ES: Discovery Chanel FHD
+http://tvla.xyz:80/cyovmrru/g556Vx2Lpa/303993
+#EXTINF:-1 tvg-id="" tvg-name="ES: Canal Odisea SD" tvg-logo="" group-title="España",ES: Canal Odisea SD
+http://tvla.xyz:80/cyovmrru/g556Vx2Lpa/303994
+#EXTINF:-1 tvg-id="" tvg-name="ES: Odisea HD" tvg-logo="" group-title="España",ES: Odisea HD
+http://tvla.xyz:80/cyovmrru/g556Vx2Lpa/303995
+#EXTINF:-1 tvg-id="" tvg-name="ES: Ultra Nature FHD" tvg-logo="" group-title="España",ES: Ultra Nature FHD
+http://tvla.xyz:80/cyovmrru/g556Vx2Lpa/303996
+#EXTINF:-1 tvg-id="" tvg-name="ES: All Flamenco FHD" tvg-logo="" group-title="España",ES: All Flamenco FHD
+http://tvla.xyz:80/cyovmrru/g556Vx2Lpa/303997
+#EXTINF:-1 tvg-id="" tvg-name="ES: Sol Musica FHD" tvg-logo="" group-title="España",ES: Sol Musica FHD
+http://tvla.xyz:80/cyovmrru/g556Vx2Lpa/303998
+#EXTINF:-1 tvg-id="" tvg-name="ES: Sol Musica FHD" tvg-logo="" group-title="España",ES: Sol Musica FHD
+http://tvla.xyz:80/cyovmrru/g556Vx2Lpa/303999
+#EXTINF:-1 tvg-id="" tvg-name="ES: Top Latino SD" tvg-logo="" group-title="España",ES: Top Latino SD
+http://tvla.xyz:80/cyovmrru/g556Vx2Lpa/304000
+#EXTINF:-1 tvg-id="" tvg-name="ES: M. Fest FHD" tvg-logo="" group-title="España",ES: M. Fest FHD
+http://tvla.xyz:80/cyovmrru/g556Vx2Lpa/304001
+#EXTINF:-1 tvg-id="" tvg-name="ES: Hit Tv SD" tvg-logo="" group-title="España",ES: Hit Tv SD
+http://tvla.xyz:80/cyovmrru/g556Vx2Lpa/304002
+#EXTINF:-1 tvg-id="" tvg-name="ES: Mtv Espana SD" tvg-logo="" group-title="España",ES: Mtv Espana SD
+http://tvla.xyz:80/cyovmrru/g556Vx2Lpa/304003
+#EXTINF:-1 tvg-id="" tvg-name="ES: Hqm Hits FHD" tvg-logo="" group-title="España",ES: Hqm Hits FHD
+http://tvla.xyz:80/cyovmrru/g556Vx2Lpa/304004
+#EXTINF:-1 tvg-id="" tvg-name="ES: 360TuneBox SD" tvg-logo="" group-title="España",ES: 360TuneBox SD
+http://tvla.xyz:80/cyovmrru/g556Vx2Lpa/304005
+#EXTINF:-1 tvg-id="" tvg-name="ES: Fashion Box SD" tvg-logo="" group-title="España",ES: Fashion Box SD
+http://tvla.xyz:80/cyovmrru/g556Vx2Lpa/304006
+#EXTINF:-1 tvg-id="" tvg-name="ES: UrbanRevolution FHD" tvg-logo="" group-title="España",ES: UrbanRevolution FHD
+http://tvla.xyz:80/cyovmrru/g556Vx2Lpa/304007
+#EXTINF:-1 tvg-id="" tvg-name="ES: Mezzo Live SD" tvg-logo="" group-title="España",ES: Mezzo Live SD
+http://tvla.xyz:80/cyovmrru/g556Vx2Lpa/304008
+#EXTINF:-1 tvg-id="" tvg-name="ES: Mezzo Live FHD" tvg-logo="" group-title="España",ES: Mezzo Live FHD
+http://tvla.xyz:80/cyovmrru/g556Vx2Lpa/304009
+#EXTINF:-1 tvg-id="" tvg-name="ES: Classica HD" tvg-logo="" group-title="España",ES: Classica HD
+http://tvla.xyz:80/cyovmrru/g556Vx2Lpa/304010
